@@ -1,0 +1,1370 @@
+﻿; Robot Room Copper Connection printed circuit board
+ApplicationVersion=2.9.5573
+AutoViaHoleDiameter=0.029 in
+AutoViaPadDiameter=0.056 in
+BottomSilkscreen=True
+BottomSolderMask=True
+BottomSolderPaste=True
+ClearanceMinimum=0.01 in
+CopperLayers=2
+EdgeClearanceMinimum=0.025 in
+FileVersion=3.0
+HoleDiameterMaximum=0.562 in
+HoleDiameterMinimum=0.008 in
+HolePadMarginMinumum=0.017 in
+ImagesInBackgroundSelectable=True
+InnerLayerLowerConnectionLabel=+
+InnerLayerUpperConnectionLabel=-
+LicenseNumber=1363
+OriginOffsetY=0 in
+PadClearanceDefault=0.012 in
+PlatedHoles=True
+PoursSelectable=True
+SpaceBetweenHolesMinumum=0.021 in
+TextClearanceIsRectangular=True
+ThermalReliefThickness=0.012 in
+ThicknessMinimum=0.006 in
+TopSilkscreen=True
+TopSolderMask=True
+TopSolderPaste=True
+TraceClearanceDefault=0.012 in
+YAxisIsQuadrantI=False
+
+[Data]
+Type	Style	Layer	Id	GroupId	StartId	EndId	X	Y	Width	Height	Right	Bottom	Thickness	Angle	SweepAngle	Clearance	SchematicId	PartValue	Text	FontName	FontHeight	HoleDiameter	Data	DisplayOrder	ThirdPartyData
+Polygon	Outline	BoardEdge	1				-0.325 in	-0.025 in					0.006 in										(-0.325 in,-0.025 in)(1.225 in,-0.025 in)(1.225 in,0.2 in)(0.775 in,1.2 in)(0.15 in,1.2 in)(-0.325 in,0.2 in)		
+Pad	Via		22				0.3775607 in	0.7563075 in	0.031 in	0.031 in												0.014 in			
+Rectangle	FillKeepOut	TopSolderMask	41				0.3391242 in	0.3877883 in	0.226 in	0.234 in															
+Trace		TopCopper	187		657	188							0.008 in												
+Point		TopCopper	188				0.5467822 in	0.7679246 in																	
+Trace		TopCopper	191		188	15074							0.008 in												
+Group			329											180°											
+Trace		TopCopper	334		402	396							0.01 in												
+Pad	Rectangular	TopCopper	339	1470			0.5808981 in	0.8676063 in	0.03 in	0.03 in				180°			"1"								
+Pad	Via		341				0.588981 in	0.3278203 in	0.031 in	0.031 in												0.014 in			
+Point		TopCopper	349				0.8614442 in	0.3198565 in																	
+Point		TopCopper	355				0.9 in	0.175 in																	
+Text		TopSilkscreen	356				0.3768448 in	0.9141433 in						90°					"1.6K"	Teeny	0.051 in				
+Point		TopCopper	360				0.7815591 in	0.4266331 in																	
+Trace		TopCopper	395		2048	15887							0.01 in												
+Pad	Via		396				0.8607591 in	0.4580155 in	0.031 in	0.031 in												0.014 in			
+Pad	Via		397				0.8828654 in	0.417343 in	0.031 in	0.031 in												0.014 in			
+Pad	Via		399				0.64937 in	0.6796563 in	0.031 in	0.031 in												0.014 in			
+Pad	Via		400				0.6820476 in	0.5922493 in	0.031 in	0.031 in												0.014 in			
+Trace		TopCopper	401		14660	14790							0.008 in												
+Point		TopCopper	402				0.8365958 in	0.4737381 in																	
+Point		TopCopper	404				0.8135956 in	0.4581055 in																	
+Pad	Via		405				0.4407048 in	0.2519179 in	0.031 in	0.031 in												0.014 in			
+Trace		TopCopper	406		404	2009							0.01 in												
+Trace		TopCopper	407		349	15816							0.008 in												
+Trace		TopCopper	409		402	2008							0.01 in												
+Trace		TopCopper	411		2001	15916							0.01 in												
+Trace		TopCopper	412		1699	14546							0.01 in												
+Point		TopCopper	413				0.6493805 in	0.5906853 in																	
+Trace		TopCopper	414		2002	417							0.01 in												
+Point		TopCopper	417				0.6659012 in	0.5681838 in																	
+Trace		TopCopper	418		413	399							0.01 in												
+Point		TopCopper	419				0.7949601 in	0.4420446 in																	
+Pad	Rectangular	TopCopper	420	1470			0.5808981 in	0.8126063 in	0.03 in	0.03 in				180°			"2"								
+Trace		TopCopper	422		417	400							0.01 in												
+Trace		BottomCopper	426		433	15972							0.02 in												
+Text		TopSilkscreen	427				0.6617401 in	0.3538359 in											"33"	Teeny	0.0595 in				
+Point		BottomCopper	428				0.4415306 in	0.3645453 in																	
+Point		TopCopper	429				0.445838 in	0.2860151 in																	
+Trace		TopCopper	430		2015	505							0.01 in												
+Trace		TopCopper	431		405	429							0.01 in												
+Trace		TopCopper	432		2022	429							0.01 in												
+Pad	Via		433				0.261761 in	0.3790181 in	0.031 in	0.031 in												0.014 in			
+Trace		TopCopper	435		2024	15164							0.01 in												
+Trace		TopCopper	470		1972	433							0.008 in												
+Trace		TopCopper	476		1973	479							0.008 in												
+Point		TopCopper	479				0.1572693 in	0.4107198 in																	
+Trace		TopCopper	480		1974	483							0.008 in												
+Point		TopCopper	483				0.137161 in	0.4264258 in																	
+Trace		TopCopper	485		1975	488							0.008 in												
+Point		TopCopper	488				0.1163233 in	0.4422517 in																	
+Point		TopCopper	493				0.0961927 in	0.4577739 in																	
+Trace		TopCopper	496		493	1976							0.008 in												
+Pad	Rectangular	TopCopper	503	1443			0.2384343 in	0.3825693 in	0.03 in	0.03 in				90°			"1"								
+Point		TopCopper	505				0.5407003 in	0.3148437 in																	
+Trace		TopCopper	506		1980	508							0.008 in												
+Trace		TopCopper	507		1978	510							0.008 in												
+Point		TopCopper	508				-0.0069056 in	0.5208664 in																	
+Point		TopCopper	510				0.0352248 in	0.4895508 in																	
+Pad	Rectangular	TopCopper	511	1443			0.1834343 in	0.3825693 in	0.03 in	0.03 in				90°			"2"								
+Point		TopCopper	518				0.8 in	0.1 in																	
+Point		TopCopper	528				1.0499162 in	0.4831555 in																	
+Pad	Rectangular	TopCopper	534	2106			0.1942807 in	0.9143981 in	0.085 in	0.115 in				180°			"1"								
+Point		TopCopper	535				0.7709375 in	0.4104035 in																	
+Pad	Rectangular	TopCopper	536	2106			0.1942807 in	0.7222392 in	0.085 in	0.115 in				180°			"2"								
+Line		TopSilkscreen	537	2106			0.1248298 in	0.8569387 in			0.1248298 in	0.9359387 in	0.012 in												
+Line		TopSilkscreen	538	2106			0.1241718 in	0.9359387 in			0.2676797 in	0.9359387 in	0.012 in												
+Line		TopSilkscreen	539	2106			0.2663636 in	0.9359387 in			0.2663636 in	0.8569387 in	0.012 in												
+Line		TopSilkscreen	540	2106			0.1248298 in	0.7849387 in			0.1248298 in	0.7059387 in	0.012 in												
+Line		TopSilkscreen	541	2106			0.1241718 in	0.7065967 in			0.2650476 in	0.7065967 in	0.012 in												
+Line		TopSilkscreen	542	2106			0.2663636 in	0.7059387 in			0.2663636 in	0.7849387 in	0.012 in												
+Pad	Rectangular	TopCopper	544	329			0.386185 in	0.8984255 in	0.03 in	0.03 in							"1"								
+Pad	Rectangular	TopCopper	545	329			0.386185 in	0.8434255 in	0.03 in	0.03 in							"2"								
+Point		TopCopper	546				1.0260295 in	0.4929391 in																	
+Text		TopSilkscreen	562				0.1444636 in	0.7971864 in											"30M"	Classic	0.051 in				
+Pad	Rectangular	TopCopper	563	573			0.2298071 in	0.6130236 in	0.03 in	0.03 in				270°			"1"								
+Pad	Rectangular	TopCopper	564	570			0.0820176 in	0.8796877 in	0.03 in	0.03 in				180°			"1"								
+Pad	Rectangular	TopCopper	565	573			0.1748071 in	0.6130236 in	0.03 in	0.03 in				270°			"2"								
+Pad	Rectangular	TopCopper	566	570			0.0820176 in	0.8246877 in	0.03 in	0.03 in				180°			"2"								
+Pad	Rectangular	TopCopper	567	569			0.0820176 in	0.7700802 in	0.03 in	0.03 in				180°			"1"								
+Pad	Rectangular	TopCopper	568	569			0.0820176 in	0.7150802 in	0.03 in	0.03 in				180°			"2"								
+Group			569																						
+Group			570																						
+Group			573																						
+Pad	Via		575				0.1569637 in	0.6328295 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid		
+Pad	Rectangular	TopCopper	576	582			0.4480057 in	0.8981772 in	0.03 in	0.03 in							"1"								
+Trace		TopCopper	577		563	15580							0.02 in												
+Pad	Rectangular	TopCopper	578	582			0.4480057 in	0.8431772 in	0.03 in	0.03 in							"2"								
+Trace		TopCopper	579		575	565							0.02 in												
+Trace		TopCopper	580		14983	581							0.008 in												
+Point		TopCopper	581				0.3491518 in	0.7404098 in																	
+Group			582											180°											
+Pad	Via		584				0.2679 in	0.640677 in	0.031 in	0.031 in												0.014 in			
+Trace		TopCopper	587		1986	15861							0.01 in												
+Trace		TopCopper	589		1987	591							0.008 in												
+Point		TopCopper	591				0.3672028 in	0.6829058 in																	
+Trace		TopCopper	593		591	14936							0.008 in												
+Trace		TopCopper	594		1977	1441							0.008 in												
+Pad	Via		597				0.4483878 in	0.8185679 in	0.031 in	0.031 in												0.014 in			
+Trace		TopCopper	598		339	16454							0.008 in												
+Trace		TopCopper	599		536	15695							0.01 in												
+Point		TopCopper	600				0.3826912 in	0.6941796 in																	
+Pad	Via		601				0.4939507 in	0.7655655 in	0.031 in	0.031 in												0.014 in			
+Trace		TopCopper	602		600	1988							0.008 in												
+Trace		TopCopper	607		1989	608							0.008 in												
+Point		TopCopper	608				0.3980628 in	0.7041673 in																	
+Point		TopCopper	610				0.4136022 in	0.723928 in																	
+Trace		TopCopper	612		610	1990							0.01 in												
+Pad	Via		614				0.5998332 in	0.7689221 in	0.031 in	0.031 in												0.014 in			
+Trace		TopCopper	615		1991	616							0.008 in												
+Point		TopCopper	616				0.4304526 in	0.7514844 in																	
+Trace		TopCopper	622		1992	623							0.008 in												
+Point		TopCopper	623				0.4456647 in	0.7608784 in																	
+Trace		TopCopper	625		623	14945							0.008 in												
+Trace		TopCopper	627		535	2012							0.008 in												
+Trace		TopCopper	631		597	15859							0.01 in												
+Trace		TopCopper	635		1997	640							0.01 in												
+Trace		TopCopper	636		601	637							0.01 in												
+Point		TopCopper	637				0.4767656 in	0.7260152 in																	
+Trace		TopCopper	638		1996	663							0.008 in												
+Trace		TopCopper	639		637	1994							0.01 in												
+Point		TopCopper	640				0.5245994 in	0.6843591 in																	
+Point		TopCopper	647				0.9 in	0.1 in																	
+Trace		TopCopper	650		1998	651							0.008 in												
+Point		TopCopper	651				0.5411239 in	0.6773397 in																	
+Trace		TopCopper	652		1995	657							0.008 in												
+Trace		TopCopper	653		651	14965							0.008 in												
+Point		TopCopper	657				0.492924 in	0.6968357 in																	
+Point		TopCopper	662				0.5726468 in	0.9522441 in																	
+Point		TopCopper	663				0.5094531 in	0.6906688 in																	
+Trace		TopCopper	665		663	666							0.008 in												
+Point		TopCopper	666				0.5648124 in	0.7601779 in																	
+Trace		TopCopper	668		666	15072							0.008 in												
+Trace		TopCopper	672		360	2011							0.008 in												
+Trace		TopCopper	676		419	2010							0.008 in												
+Trace		TopCopper	677		678	518							0.008 in												
+Point		TopCopper	678				0.8 in	0.1780378 in																	
+Trace		BottomCopper	686		584	15875							0.02 in												
+Trace		TopCopper	690		1979	693							0.008 in												
+Point		TopCopper	693				0.0160453 in	0.5053262 in																	
+Point		BottomCopper	701				0.74273 in	0.6395055 in																	
+Trace		TopCopper	704		1699	16093							0.01 in												
+Trace		TopCopper	709		355	647							0.008 in												
+Trace		TopCopper	716		600	14934							0.008 in												
+Trace		BottomCopper	718		14917	701							0.02 in												
+Pad	Rectangular	TopCopper	737	1712			0.9052654 in	0.3998786 in	0.03 in	0.03 in				90°			"1"							2	
+Trace		TopCopper	1290		528	1812							0.008 in												
+Trace		TopCopper	1298		2005	1809							0.008 in												
+Point		TopCopper	1300				0.9884355 in	0.4764437 in																	
+Trace		BottomCopper	1340		601	15869							0.02 in												
+Point		TopCopper	1441				0.0615895 in	0.4736302 in																	
+Group			1443											180°											
+Polygon	FillClearance	BottomCopper	1447				-0.322863 in	-0.0231004 in															(-0.322863 in,-0.0231004 in)(-0.322863 in,0.2018996 in)(0.102137 in,1.0518996 in)(0.802137 in,1.0518996 in)(1.227137 in,0.2018996 in)(1.227137 in,-0.0231004 in)		
+Group			1470																						
+Pad	Rectangular	TopCopper	1472	1474			0.5167463 in	0.8675122 in	0.03 in	0.03 in				180°			"1"								
+Pad	Rectangular	TopCopper	1473	1474			0.5167463 in	0.8125122 in	0.03 in	0.03 in				180°			"2"								
+Group			1474																						
+Trace		TopCopper	1480		662	16452							0.008 in												
+Trace		TopCopper	1485		1300	1798							0.008 in												
+Pad	Rectangular	TopCopper	1514	1712			0.9602654 in	0.3998786 in	0.03 in	0.03 in				90°			"2"							2	
+Trace		TopCopper	1554		15849	16227							0.008 in												
+Trace		TopCopper	1559		505	16145							0.01 in												
+Text		BottomSilkscreen	1575				0.5732707 in	0.58654 in											"OSH"	Tiny	0.17 in				
+Point		TopCopper	1576				0.3579799 in	0.8126997 in																	
+Ellipse	Outline	BottomSilkscreen	1587	1660			0.6199789 in	0.3849932 in	0.16 in	0.16 in			0.03 in	300°	300°										
+Line		BottomSilkscreen	1588	1595			0.6629789 in	0.3809932 in			0.6879789 in	0.3309932 in	0.01 in												
+Line		BottomSilkscreen	1589	1595			0.6879789 in	0.3309932 in			0.7129789 in	0.3309932 in	0.01 in												
+Line		BottomSilkscreen	1590	1595			0.7129789 in	0.3309932 in			0.7379789 in	0.3809932 in	0.01 in												
+Line		BottomSilkscreen	1591	1595			0.7379789 in	0.3809932 in			0.6629789 in	0.3809932 in	0.01 in												
+Rectangle		BottomSilkscreen	1592	1595			0.6699789 in	0.3629932 in	0.06 in	0.014 in															
+Rectangle		BottomSilkscreen	1593	1595			0.6769789 in	0.3439932 in	0.048 in	0.022 in															
+Rectangle		BottomSilkscreen	1594	1595			0.6849789 in	0.3339932 in	0.03 in	0.016 in															
+Group			1595	1660																					
+Line		BottomSilkscreen	1596	1607			0.6679789 in	0.3799932 in			0.6179789 in	0.4299932 in	0.01 in												
+Line		BottomSilkscreen	1597	1607			0.6179789 in	0.4299932 in			0.5929789 in	0.3799932 in	0.01 in												
+Line		BottomSilkscreen	1598	1607			0.5929789 in	0.3799932 in			0.6179789 in	0.3549932 in	0.01 in												
+Line		BottomSilkscreen	1599	1607			0.6179789 in	0.3549932 in			0.6679789 in	0.3799932 in	0.01 in												
+Rectangle		BottomSilkscreen	1600	1607			0.6129789 in	0.3579932 in	0.016 in	0.065 in															
+Rectangle		BottomSilkscreen	1601	1607			0.6239789 in	0.3629932 in	0.015 in	0.051 in															
+Rectangle		BottomSilkscreen	1602	1607			0.6359789 in	0.3659932 in	0.013 in	0.037 in															
+Rectangle		BottomSilkscreen	1603	1607			0.6449789 in	0.3729932 in	0.008 in	0.021 in															
+Rectangle		BottomSilkscreen	1604	1607			0.6479789 in	0.3759932 in	0.012 in	0.013 in															
+Rectangle		BottomSilkscreen	1605	1607			0.6059789 in	0.3649932 in	0.01 in	0.049 in															
+Rectangle		BottomSilkscreen	1606	1607			0.5979789 in	0.3719932 in	0.011 in	0.027 in															
+Group			1607	1660																					
+Line		BottomSilkscreen	1608	1619			0.7789789 in	0.4279932 in			0.7289789 in	0.3779932 in	0.01 in												
+Line		BottomSilkscreen	1609	1619			0.7289789 in	0.3779932 in			0.7789789 in	0.3529932 in	0.01 in												
+Line		BottomSilkscreen	1610	1619			0.7789789 in	0.3529932 in			0.8039789 in	0.3779932 in	0.01 in												
+Line		BottomSilkscreen	1611	1619			0.8039789 in	0.3779932 in			0.7789789 in	0.4279932 in	0.01 in												
+Rectangle		BottomSilkscreen	1612	1619			0.7359789 in	0.3729932 in	0.065 in	0.016 in															
+Rectangle		BottomSilkscreen	1613	1619			0.7449789 in	0.3839932 in	0.051 in	0.015 in															
+Rectangle		BottomSilkscreen	1614	1619			0.7559789 in	0.3959932 in	0.037 in	0.013 in															
+Rectangle		BottomSilkscreen	1615	1619			0.7649789 in	0.4049932 in	0.021 in	0.008 in															
+Rectangle		BottomSilkscreen	1616	1619			0.7699789 in	0.4079932 in	0.013 in	0.012 in															
+Rectangle		BottomSilkscreen	1617	1619			0.7449789 in	0.3659932 in	0.049 in	0.01 in															
+Rectangle		BottomSilkscreen	1618	1619			0.7599789 in	0.3579932 in	0.027 in	0.011 in															
+Group			1619	1660																					
+Line		BottomSilkscreen	1620	1627			0.6179789 in	0.4989932 in			0.5679789 in	0.4739932 in	0.01 in												
+Line		BottomSilkscreen	1621	1627			0.5679789 in	0.4739932 in			0.5679789 in	0.4489932 in	0.01 in												
+Line		BottomSilkscreen	1622	1627			0.5679789 in	0.4489932 in			0.6179789 in	0.4239932 in	0.01 in												
+Line		BottomSilkscreen	1623	1627			0.6179789 in	0.4239932 in			0.6179789 in	0.4989932 in	0.01 in												
+Rectangle		BottomSilkscreen	1624	1627			0.5999789 in	0.4319932 in	0.014 in	0.06 in															
+Rectangle		BottomSilkscreen	1625	1627			0.5809789 in	0.4369932 in	0.022 in	0.048 in															
+Rectangle		BottomSilkscreen	1626	1627			0.5709789 in	0.4469932 in	0.016 in	0.03 in															
+Group			1627	1660																					
+Line		BottomSilkscreen	1628	1639			0.6159789 in	0.4929932 in			0.6659789 in	0.5429932 in	0.01 in												
+Line		BottomSilkscreen	1629	1639			0.6659789 in	0.5429932 in			0.6159789 in	0.5679932 in	0.01 in												
+Line		BottomSilkscreen	1630	1639			0.6159789 in	0.5679932 in			0.5909789 in	0.5429932 in	0.01 in												
+Line		BottomSilkscreen	1631	1639			0.5909789 in	0.5429932 in			0.6159789 in	0.4929932 in	0.01 in												
+Rectangle		BottomSilkscreen	1632	1639			0.5939789 in	0.5319932 in	0.065 in	0.016 in															
+Rectangle		BottomSilkscreen	1633	1639			0.5989789 in	0.5219932 in	0.051 in	0.015 in															
+Rectangle		BottomSilkscreen	1634	1639			0.6019789 in	0.5119932 in	0.037 in	0.013 in															
+Rectangle		BottomSilkscreen	1635	1639			0.6089789 in	0.5079932 in	0.021 in	0.008 in															
+Rectangle		BottomSilkscreen	1636	1639			0.6119789 in	0.5009932 in	0.013 in	0.012 in															
+Rectangle		BottomSilkscreen	1637	1639			0.6009789 in	0.5449932 in	0.049 in	0.01 in															
+Rectangle		BottomSilkscreen	1638	1639			0.6079789 in	0.5519932 in	0.027 in	0.011 in															
+Group			1639	1660																					
+Line		BottomSilkscreen	1640	1647			0.7819789 in	0.4239932 in			0.8319789 in	0.4489932 in	0.01 in												
+Line		BottomSilkscreen	1641	1647			0.8319789 in	0.4489932 in			0.8319789 in	0.4739932 in	0.01 in												
+Line		BottomSilkscreen	1642	1647			0.8319789 in	0.4739932 in			0.7819789 in	0.4989932 in	0.01 in												
+Line		BottomSilkscreen	1643	1647			0.7819789 in	0.4989932 in			0.7819789 in	0.4239932 in	0.01 in												
+Rectangle		BottomSilkscreen	1644	1647			0.7859789 in	0.4309932 in	0.014 in	0.06 in															
+Rectangle		BottomSilkscreen	1645	1647			0.7969789 in	0.4379932 in	0.022 in	0.048 in															
+Rectangle		BottomSilkscreen	1646	1647			0.8129789 in	0.4459932 in	0.016 in	0.03 in															
+Group			1647	1660																					
+Line		BottomSilkscreen	1648	1659			0.7319789 in	0.5419932 in			0.7819789 in	0.4919932 in	0.01 in												
+Line		BottomSilkscreen	1649	1659			0.7819789 in	0.4919932 in			0.8069789 in	0.5419932 in	0.01 in												
+Line		BottomSilkscreen	1650	1659			0.8069789 in	0.5419932 in			0.7819789 in	0.5669932 in	0.01 in												
+Line		BottomSilkscreen	1651	1659			0.7819789 in	0.5669932 in			0.7319789 in	0.5419932 in	0.01 in												
+Rectangle		BottomSilkscreen	1652	1659			0.7709789 in	0.4989932 in	0.016 in	0.065 in															
+Rectangle		BottomSilkscreen	1653	1659			0.7609789 in	0.5079932 in	0.015 in	0.051 in															
+Rectangle		BottomSilkscreen	1654	1659			0.7509789 in	0.5189932 in	0.013 in	0.037 in															
+Rectangle		BottomSilkscreen	1655	1659			0.7469789 in	0.5279932 in	0.008 in	0.021 in															
+Rectangle		BottomSilkscreen	1656	1659			0.7399789 in	0.5329932 in	0.012 in	0.013 in															
+Rectangle		BottomSilkscreen	1657	1659			0.7839789 in	0.5079932 in	0.01 in	0.049 in															
+Rectangle		BottomSilkscreen	1658	1659			0.7909789 in	0.5229932 in	0.011 in	0.027 in															
+Group			1659	1660																					
+Group			1660																						
+Trace		TopCopper	1664		610	22							0.01 in												
+Trace		TopCopper	1666		581	608							0.008 in												
+Trace		TopCopper	1670		1576	1671							0.008 in												
+Point		TopCopper	1671				0.3880605 in	0.7887915 in																	
+Trace		TopCopper	1673		1671	616							0.008 in												
+Ellipse	Outline	TopSilkscreen	1676	1969			0.673179 in	0.3957589 in	0.15 in	0.15 in			0.015 in	270°	360°										
+Line		TopSilkscreen	1677	1969			0.723179 in	0.4707589 in			0.723179 in	0.5407589 in	0.01 in												
+Rectangle		TopSilkscreen	1678	1969			0.723179 in	0.4727589 in	0.057 in	0.041 in				270°											
+Line		TopSilkscreen	1679	1969			0.811179 in	0.5067589 in			0.773179 in	0.4707589 in	0.01 in												
+Line		TopSilkscreen	1680	1969			0.773179 in	0.4707589 in			0.723179 in	0.4707589 in	0.01 in												
+Rectangle		TopSilkscreen	1681	1969			0.725179 in	0.4997589 in	0.057 in	0.041 in				270°											
+Rectangle		TopSilkscreen	1682	1969			0.733179 in	0.4827589 in	0.057 in	0.052 in				270°											
+Rectangle		TopSilkscreen	1683	1969			0.750179 in	0.4977589 in	0.057 in	0.026 in				270°											
+Rectangle		TopSilkscreen	1684	1969			0.779179 in	0.4897589 in	0.018 in	0.041 in				270°											
+Rectangle		TopSilkscreen	1685	1969			0.687179 in	0.5097589 in	0.057 in	0.012 in				270°											
+Rectangle		TopSilkscreen	1686	1969			0.699179 in	0.5187589 in	0.057 in	0.014 in				270°											
+Point		TopCopper	1699				0.6389595 in	0.7135875 in																	
+Group			1712											270°										2	
+Trace		TopCopper	1714		433	503							0.02 in												
+Trace		BottomCopper	1717		597	1752							0.02 in												
+Point		BottomCopper	1752				0.4711839 in	0.831859 in																	
+Trace		TopCopper	1774		15292	511							0.02 in												
+Point		TopCopper	1798				0.979093 in	0.4897133 in																	
+Point		TopCopper	1809				1.0105073 in	0.5208906 in																	
+Trace		TopCopper	1810		1798	2007							0.008 in												
+Point		TopCopper	1812				1.0256792 in	0.5369296 in																	
+Trace		TopCopper	1813		1809	546							0.008 in												
+Trace		TopCopper	1815		1812	2004							0.008 in												
+Text		TopSilkscreen	1829				0.0620315 in	0.8424893 in											"18"	Teeny	0.051 in				
+Text		TopSilkscreen	1830				0.0612755 in	0.7344719 in											"18"	Teeny	0.051 in				
+Point		BottomCopper	1844				0.6045051 in	0.4563325 in																	
+Trace		BottomCopper	1846		1844	15735							0.01 in												
+Trace		BottomCopper	1847		1752	1848							0.02 in												
+Point		BottomCopper	1848				0.8039999 in	0.8317371 in																	
+Ellipse	Outline	BottomSilkscreen	1876	1887			0.0039191 in	0.3730124 in	0.15 in	0.15 in			0.012 in	270°	360°										
+Line		BottomSilkscreen	1877	1887			0.1039191 in	0.4480124 in			0.1039191 in	0.5180124 in	0.01 in												
+Rectangle		BottomSilkscreen	1878	1887			0.0469191 in	0.4500124 in	0.057 in	0.041 in				270°											
+Line		BottomSilkscreen	1879	1887			0.0159191 in	0.4840124 in			0.0539191 in	0.4480124 in	0.01 in												
+Line		BottomSilkscreen	1880	1887			0.0539191 in	0.4480124 in			0.1039191 in	0.4480124 in	0.01 in												
+Rectangle		BottomSilkscreen	1881	1887			0.0449191 in	0.4770124 in	0.057 in	0.041 in				270°											
+Rectangle		BottomSilkscreen	1882	1887			0.0369191 in	0.4600124 in	0.057 in	0.052 in				270°											
+Rectangle		BottomSilkscreen	1883	1887			0.0199191 in	0.4750124 in	0.057 in	0.026 in				270°											
+Rectangle		BottomSilkscreen	1884	1887			0.0299191 in	0.4670124 in	0.018 in	0.041 in				270°											
+Rectangle		BottomSilkscreen	1885	1887			0.0829191 in	0.4870124 in	0.057 in	0.012 in				270°											
+Rectangle		BottomSilkscreen	1886	1887			0.0709191 in	0.4960124 in	0.057 in	0.014 in				270°											
+Group			1887											270°											
+Text		BottomSilkscreen	1888				-0.0215582 in	0.552939 in											"Black"	Tiny	0.1275 in				
+Text		TopSilkscreen	1890				0.3083656 in	0.7880388 in											"P"	Teeny	0.051 in				
+Text		TopSilkscreen	1891				0.361683 in	0.7882579 in											"M"	Teeny	0.051 in				
+Text		TopSilkscreen	1899				0.3323312 in	0.7683778 in											"D"	Teeny	0.08 in				
+Text		TopSilkscreen	1900				0.5577823 in	0.9252876 in											"N"	Teeny	0.051 in				
+Text		TopSilkscreen	1901				0.5929381 in	0.9255495 in											"P"	Teeny	0.051 in				
+Text		TopSilkscreen	1902				0.5419073 in	0.8563078 in											"T"	Teeny	0.0595 in				
+Text		TopSilkscreen	1903				0.6670702 in	0.8465286 in											"N"	Teeny	0.051 in				
+Text		TopSilkscreen	1904				0.6958066 in	0.8476465 in											"P"	Teeny	0.051 in				
+Text		TopSilkscreen	1905				0.6799045 in	0.8130739 in											"R"	Teeny	0.0595 in				
+Text		BottomSilkscreen	1966				0.210465 in	1.0361798 in											"2017.11.19"	Tiny	0.102 in				
+Group			1969											270°											
+Text		TopSilkscreen	1970	2051			0.2849904 in	0.5286973 in											"14"	Classic	0.068 in			6	
+Pad	Rectangular	TopCopper	1972	2051			0.3084581 in	0.3949844 in	0.046 in	0.01 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	1973	2051			0.3084581 in	0.4107324 in	0.046 in	0.01 in				90°			"2"							6	
+Pad	Rectangular	TopCopper	1974	2051			0.3084581 in	0.4264805 in	0.046 in	0.01 in				90°			"3"							6	
+Pad	Rectangular	TopCopper	1975	2051			0.3084581 in	0.4422285 in	0.046 in	0.01 in				90°			"4"							6	
+Pad	Rectangular	TopCopper	1976	2051			0.3084581 in	0.4579765 in	0.046 in	0.01 in				90°			"5"							6	
+Pad	Rectangular	TopCopper	1977	2051			0.3084581 in	0.4737246 in	0.046 in	0.01 in				90°			"6"							6	
+Pad	Rectangular	TopCopper	1978	2051			0.3084581 in	0.4894726 in	0.046 in	0.01 in				90°			"7"							6	
+Pad	Rectangular	TopCopper	1979	2051			0.3084581 in	0.5052206 in	0.046 in	0.01 in				90°			"8"							6	
+Pad	Rectangular	TopCopper	1980	2051			0.3084581 in	0.5209687 in	0.046 in	0.01 in				90°			"9"							6	
+Pad	Rectangular	TopCopper	1981	2051			0.3084581 in	0.5367167 in	0.046 in	0.01 in				90°			"10"							6	
+Pad	Rectangular	TopCopper	1982	2051			0.3084581 in	0.5524647 in	0.046 in	0.01 in				90°			"11"							6	
+Pad	Rectangular	TopCopper	1983	2051			0.3084581 in	0.5682128 in	0.046 in	0.01 in				90°			"12"							6	
+Pad	Rectangular	TopCopper	1984	2051			0.3084581 in	0.5839608 in	0.046 in	0.01 in				90°			"13"							6	
+Pad	Rectangular	TopCopper	1985	2051			0.3084581 in	0.5997088 in	0.046 in	0.01 in				90°			"14"							6	
+Pad	Rectangular	TopCopper	1986	2051			0.3513745 in	0.6426253 in	0.01 in	0.046 in							"15"							6	
+Pad	Rectangular	TopCopper	1987	2051			0.3671225 in	0.6426253 in	0.01 in	0.046 in							"16"							6	
+Pad	Rectangular	TopCopper	1988	2051			0.3828706 in	0.6426253 in	0.01 in	0.046 in							"17"							6	
+Pad	Rectangular	TopCopper	1989	2051			0.3986186 in	0.6426253 in	0.01 in	0.046 in							"18"							6	
+Pad	Rectangular	TopCopper	1990	2051			0.4143666 in	0.6426253 in	0.01 in	0.046 in							"19"							6	
+Pad	Rectangular	TopCopper	1991	2051			0.4301147 in	0.6426253 in	0.01 in	0.046 in							"20"							6	
+Pad	Rectangular	TopCopper	1992	2051			0.4458627 in	0.6426253 in	0.01 in	0.046 in							"21"							6	
+Pad	Rectangular	TopCopper	1993	2051			0.4616107 in	0.6426253 in	0.01 in	0.046 in							"22"							6	
+Pad	Rectangular	TopCopper	1994	2051			0.4773587 in	0.6426253 in	0.01 in	0.046 in							"23"							6	
+Pad	Rectangular	TopCopper	1995	2051			0.4931068 in	0.6426253 in	0.01 in	0.046 in							"24"							6	
+Pad	Rectangular	TopCopper	1996	2051			0.5088548 in	0.6426253 in	0.01 in	0.046 in							"25"							6	
+Pad	Rectangular	TopCopper	1997	2051			0.5246028 in	0.6426253 in	0.01 in	0.046 in							"26"							6	
+Pad	Rectangular	TopCopper	1998	2051			0.5403509 in	0.6426253 in	0.01 in	0.046 in							"27"							6	
+Pad	Rectangular	TopCopper	1999	2051			0.5560989 in	0.6426253 in	0.01 in	0.046 in							"28"							6	
+Pad	Rectangular	TopCopper	2000	2051			0.5990153 in	0.5997088 in	0.046 in	0.01 in				90°			"29"							6	
+Pad	Rectangular	TopCopper	2001	2051			0.5990153 in	0.5839608 in	0.046 in	0.01 in				90°			"30"							6	
+Pad	Rectangular	TopCopper	2002	2051			0.5990153 in	0.5682128 in	0.046 in	0.01 in				90°			"31"							6	
+Pad	Rectangular	TopCopper	2003	2051			0.5990153 in	0.5524647 in	0.046 in	0.01 in				90°			"32"							6	
+Pad	Rectangular	TopCopper	2004	2051			0.5990153 in	0.5367167 in	0.046 in	0.01 in				90°			"33"							6	
+Pad	Rectangular	TopCopper	2005	2051			0.5990153 in	0.5209687 in	0.046 in	0.01 in				90°			"34"							6	
+Pad	Rectangular	TopCopper	2006	2051			0.5990153 in	0.5052206 in	0.046 in	0.01 in				90°			"35"							6	
+Pad	Rectangular	TopCopper	2007	2051			0.5990153 in	0.4894726 in	0.046 in	0.01 in				90°			"36"							6	
+Pad	Rectangular	TopCopper	2008	2051			0.5990153 in	0.4737246 in	0.046 in	0.01 in				90°			"37"							6	
+Pad	Rectangular	TopCopper	2009	2051			0.5990153 in	0.4579765 in	0.046 in	0.01 in				90°			"38"							6	
+Pad	Rectangular	TopCopper	2010	2051			0.5990153 in	0.4422285 in	0.046 in	0.01 in				90°			"39"							6	
+Pad	Rectangular	TopCopper	2011	2051			0.5990153 in	0.4264805 in	0.046 in	0.01 in				90°			"40"							6	
+Pad	Rectangular	TopCopper	2012	2051			0.5990153 in	0.4107324 in	0.046 in	0.01 in				90°			"41"							6	
+Pad	Rectangular	TopCopper	2013	2051			0.5990153 in	0.3949844 in	0.046 in	0.01 in				90°			"42"							6	
+Pad	Rectangular	TopCopper	2014	2051			0.5560989 in	0.352068 in	0.01 in	0.046 in							"43"							6	
+Pad	Rectangular	TopCopper	2015	2051			0.5403509 in	0.352068 in	0.01 in	0.046 in							"44"							6	
+Pad	Rectangular	TopCopper	2016	2051			0.5246028 in	0.352068 in	0.01 in	0.046 in							"45"							6	
+Pad	Rectangular	TopCopper	2017	2051			0.5088548 in	0.352068 in	0.01 in	0.046 in							"46"							6	
+Pad	Rectangular	TopCopper	2018	2051			0.4931068 in	0.352068 in	0.01 in	0.046 in							"47"							6	
+Pad	Rectangular	TopCopper	2019	2051			0.4773587 in	0.352068 in	0.01 in	0.046 in							"48"							6	
+Pad	Rectangular	TopCopper	2020	2051			0.4616107 in	0.352068 in	0.01 in	0.046 in							"49"							6	
+Pad	Rectangular	TopCopper	2022	2051			0.4458627 in	0.352068 in	0.01 in	0.046 in							"50"							6	
+Pad	Rectangular	TopCopper	2023	2051			0.4301147 in	0.352068 in	0.01 in	0.046 in							"51"							6	
+Pad	Rectangular	TopCopper	2024	2051			0.4143666 in	0.352068 in	0.01 in	0.046 in							"52"							6	
+Pad	Rectangular	TopCopper	2025	2051			0.3986186 in	0.352068 in	0.01 in	0.046 in							"53"							6	
+Pad	Rectangular	TopCopper	2026	2051			0.3828706 in	0.352068 in	0.01 in	0.046 in							"54"							6	
+Pad	Rectangular	TopCopper	2027	2051			0.3671225 in	0.352068 in	0.01 in	0.046 in							"55"							6	
+Pad	Rectangular	TopCopper	2028	2051			0.3513745 in	0.352068 in	0.01 in	0.046 in							"56"							6	
+Text		TopSilkscreen	2030	2051			0.332108 in	0.343122 in						270°					"1"	Classic	0.068 in			6	
+Line		TopSilkscreen	2031	2051			0.3739607 in	0.3685369 in			0.3439607 in	0.3685369 in	0.008 in											6	
+Line		TopSilkscreen	2032	2051			0.3439607 in	0.3685369 in			0.3239607 in	0.3885369 in	0.008 in											6	
+Line		TopSilkscreen	2033	2051			0.3249607 in	0.3875369 in			0.3249607 in	0.4175369 in	0.008 in											6	
+Line		TopSilkscreen	2034	2051			0.3745738 in	0.6264437 in			0.3245738 in	0.6264437 in	0.008 in											6	
+Line		TopSilkscreen	2035	2051			0.3245738 in	0.6264437 in			0.3245738 in	0.5764437 in	0.008 in											6	
+Line		TopSilkscreen	2036	2051			0.5327841 in	0.6264437 in			0.5827841 in	0.6264437 in	0.008 in											6	
+Line		TopSilkscreen	2037	2051			0.5827841 in	0.6264437 in			0.5827841 in	0.5764437 in	0.008 in											6	
+Line		TopSilkscreen	2038	2051			0.5324745 in	0.3685369 in			0.5824745 in	0.3685369 in	0.008 in											6	
+Text		TopSilkscreen	2039	2051			0.3790582 in	0.6190864 in											"15"	Classic	0.068 in			6	
+Text		TopSilkscreen	2040	2051			0.4588668 in	0.6196995 in											"28"	Classic	0.068 in			6	
+Text		TopSilkscreen	2041	2051			0.5535478 in	0.5225662 in											"29"	Classic	0.068 in			6	
+Text		TopSilkscreen	2042	2051			0.5517084 in	0.4282358 in											"42"	Classic	0.068 in			6	
+Text		TopSilkscreen	2043	2051			0.4582537 in	0.3323287 in											"43"	Classic	0.068 in			6	
+Text		TopSilkscreen	2044	2051			0.3875801 in	0.3341343 in											"56"	Classic	0.068 in			6	
+Text		TopSilkscreen	2045	2051			0.2955738 in	0.3872232 in											"1"	Classic	0.068 in			6	
+Line		TopSilkscreen	2046	2051			0.5824745 in	0.3685369 in			0.5824745 in	0.4185369 in	0.008 in											6	
+Pad	SquareWithHole		2048	2051			0.4536439 in	0.4974395 in	0.2 in	0.2 in												0.15 in	BottomCopper Solid	6	
+Text		TopSilkscreen	2049	2051			0.3756415 in	0.3848546 in											"QFN56"	Teeny	0.068 in			6	
+Text		TopSilkscreen	2050	2051			0.3672948 in	0.5779414 in											"0.4mm"	Teeny	0.068 in			6	
+Group			2051																					6	
+Trace		BottomCopper	2086		397	16110							0.01 in												
+Trace		BottomCopper	2094		1848	15546							0.02 in												
+Group			2106																						
+Pad	Rectangular	TopCopper	5338	14933			9.6768375 mm	1.0098282 in	0.016 in	2.5 mm							"5"							1	
+Pad	Rectangular	TopCopper	5339	14933			10.3372375 mm	1.0098282 in	0.016 in	2.5 mm							"4"							1	
+Pad	Rectangular	TopCopper	5340	14933			9.0418375 mm	1.0098282 in	0.016 in	2.5 mm							"3"							1	
+Pad	Rectangular	TopCopper	5341	14933			8.3814375 mm	1.0098282 in	0.016 in	2.5 mm							"2"							1	
+Pad	Rectangular	TopCopper	5342	14933			7.7210375 mm	1.0098282 in	0.016 in	2.5 mm							"1"							1	
+Pad	Rectangular	TopCopper	5344	14933			18.0122108 mm	1.1460837 in	0.08 in	0.1 in				270°			"2"							1	
+Text		TopSilkscreen	5352	14933			0.2721235 in	1.0281369 in											"1"	Teeny	0.0595 in			1	
+Text		TopSilkscreen	5353	14933			0.4265251 in	1.0291567 in											"5"	Teeny	0.0595 in			1	
+Text		TopSilkscreen	5354	14933			0.3332909 in	1.1728285 in											"H125269CT-ND"	Teeny	1.295 mm			1	
+Rectangle		TopCopper	5356	14933			4.4211686 mm	1.0960806 in	1.9500012 mm	0.1034094 in				180°										1	
+Rectangle		TopCopper	5357	14933			9.6768375 mm	1.0122852 in	0.7112 mm	0.02 in				180°										1	
+Pad	Rectangular	TopCopper	5373	14933			15.7413923 mm	1.0098282 in	0.016 in	2.5 mm							"4"							1	
+Pad	Rectangular	TopCopper	5381	14933			16.391391 mm	1.0098282 in	0.016 in	2.5 mm							"4"							1	
+Pad	Rectangular	TopCopper	5382	14933			17.0413923 mm	1.0098282 in	0.016 in	2.5 mm							"4"							1	
+Pad	Rectangular	TopCopper	5383	14933			15.0913911 mm	1.0098282 in	0.016 in	2.5 mm							"4"							1	
+Pad	Rectangular	TopCopper	5384	14933			14.4413924 mm	1.0098282 in	0.016 in	2.5 mm							"4"							1	
+Pad			5388	14933			5.4026779 mm	1.1420385 in	0.078 in	0.078 in				90°			"9"					0.061 in		1	
+Pad			5389	14933			18.0025486 mm	1.1420385 in	0.078 in	0.078 in				90°			"9"					0.061 in		1	
+Point		TopSilkscreen	5390	14933			5.4026787 mm	29.0126487 mm																1	
+Point		TopSilkscreen	5391	14933			9.0389282 mm	29.0126487 mm																1	
+Trace		TopSilkscreen	5392	14933	5390	5391							0.006 in											1	
+Pad	Rectangular	TopSilkscreen	5395	14933			12.3908529 mm	1.033405 in	0.016 in	1.3 mm							"4"							1	
+Point		TopSilkscreen	5396	14933			9.040717 mm	25.6587142 mm																1	
+Point		TopSilkscreen	5397	14933			9.040717 mm	29.0148942 mm																1	
+Trace		TopSilkscreen	5398	14933	5396	5397							0.006 in											1	
+Point		TopSilkscreen	5399	14933			5.3996723 mm	30.4625927 mm																1	
+Point		TopSilkscreen	5400	14933			5.3996723 mm	29.0117802 mm																1	
+Trace		TopSilkscreen	5401	14933	5399	5400							0.006 in											1	
+Point		TopSilkscreen	5402	14933			4.3116307 mm	30.4656179 mm																1	
+Point		TopSilkscreen	5403	14933			19.0875799 mm	30.4656179 mm																1	
+Trace		TopSilkscreen	5404	14933	5402	5403							0.006 in											1	
+Rectangle		TopCopper	5405	14933			17.0255757 mm	1.0955242 in	1.9500012 mm	0.1034094 in				180°										1	
+Point		TopSilkscreen	5406	14933			4.3116306 mm	25.6884188 mm																1	
+Point		TopSilkscreen	5407	14933			7.2011171 mm	25.6884188 mm																1	
+Trace		TopSilkscreen	5408	14933	5406	5407							0.006 in											1	
+Point		TopSilkscreen	5409	14933			10.9686151 mm	25.6884188 mm																1	
+Point		TopSilkscreen	5410	14933			13.8581016 mm	25.6884188 mm																1	
+Trace		TopSilkscreen	5411	14933	5409	5410							0.006 in											1	
+Point		TopSilkscreen	5412	14933			17.4277275 mm	25.6884188 mm																1	
+Point		TopSilkscreen	5413	14933			19.1441148 mm	25.6884188 mm																1	
+Trace		TopSilkscreen	5414	14933	5412	5413							0.006 in											1	
+Point		TopSilkscreen	5415	14933			4.3080997 mm	25.7061042 mm																1	
+Point		TopSilkscreen	5416	14933			4.3080997 mm	30.4471087 mm																1	
+Trace		TopSilkscreen	5417	14933	5415	5416							0.006 in											1	
+Point		TopSilkscreen	5418	14933			19.1167624 mm	25.7061042 mm																1	
+Point		TopSilkscreen	5419	14933			19.1167624 mm	30.4471087 mm																1	
+Trace		TopSilkscreen	5420	14933	5418	5419							0.006 in											1	
+Text		TopSilkscreen	5421	14933			0.5301749 in	1.0304443 in											"6"	Teeny	0.0595 in			1	
+Text		TopSilkscreen	5422	14933			0.6925159 in	1.0313027 in											"10"	Teeny	0.0595 in			1	
+Pad	Rectangular	TopCopper	5423	14933			5.4062822 mm	1.1457289 in	0.08 in	0.1 in				270°			"2"							1	
+Text		TopSilkscreen	5424	14933			7.1799701 mm	27.1898426 mm											"USB MICRO B 3.0"	Teeny	1.295 mm			1	
+Ellipse	Outline	TopSilkscreen	14454	14529			0.0045838 in	0.2917245 in	0.1264842 in	0.1276668 in			0.02 in	300°	300°										
+Line		TopSilkscreen	14456	14463			0.0312054 in	0.2957133 in			0.0562054 in	0.2457133 in	0.01 in												
+Line		TopSilkscreen	14457	14463			0.0562054 in	0.2457133 in			0.0812054 in	0.2457133 in	0.01 in												
+Line		TopSilkscreen	14458	14463			0.0812054 in	0.2457133 in			0.1062054 in	0.2957133 in	0.01 in												
+Line		TopSilkscreen	14459	14463			0.1062054 in	0.2957133 in			0.0312054 in	0.2957133 in	0.01 in												
+Rectangle		TopSilkscreen	14460	14463			0.0382054 in	0.2777133 in	0.06 in	0.014 in															
+Rectangle		TopSilkscreen	14461	14463			0.0452054 in	0.2587133 in	0.048 in	0.022 in															
+Rectangle		TopSilkscreen	14462	14463			0.0532054 in	0.2487133 in	0.03 in	0.016 in															
+Group			14463	14529																					
+Line		TopSilkscreen	14464	14475			0.051256 in	0.2881315 in			0.001256 in	0.3381315 in	0.01 in												
+Line		TopSilkscreen	14465	14475			0.001256 in	0.3381315 in			-0.023744 in	0.2881315 in	0.01 in												
+Line		TopSilkscreen	14466	14475			-0.023744 in	0.2881315 in			0.001256 in	0.2631315 in	0.01 in												
+Line		TopSilkscreen	14467	14475			0.001256 in	0.2631315 in			0.051256 in	0.2881315 in	0.01 in												
+Rectangle		TopSilkscreen	14468	14475			-0.003744 in	0.2661315 in	0.016 in	0.065 in															
+Rectangle		TopSilkscreen	14469	14475			0.007256 in	0.2711315 in	0.015 in	0.051 in															
+Rectangle		TopSilkscreen	14470	14475			0.019256 in	0.2741315 in	0.013 in	0.037 in															
+Rectangle		TopSilkscreen	14471	14475			0.028256 in	0.2811315 in	0.008 in	0.021 in															
+Rectangle		TopSilkscreen	14472	14475			0.031256 in	0.2841315 in	0.012 in	0.013 in															
+Rectangle		TopSilkscreen	14473	14475			-0.010744 in	0.2731315 in	0.01 in	0.049 in															
+Rectangle		TopSilkscreen	14474	14475			-0.018744 in	0.2801315 in	0.011 in	0.027 in															
+Group			14475	14529																					
+Line		TopSilkscreen	14476	14487			0.1296336 in	0.3328007 in			0.0796336 in	0.2828007 in	0.01 in												
+Line		TopSilkscreen	14477	14487			0.0796336 in	0.2828007 in			0.1296336 in	0.2578007 in	0.01 in												
+Line		TopSilkscreen	14478	14487			0.1296336 in	0.2578007 in			0.1546336 in	0.2828007 in	0.01 in												
+Line		TopSilkscreen	14479	14487			0.1546336 in	0.2828007 in			0.1296336 in	0.3328007 in	0.01 in												
+Rectangle		TopSilkscreen	14480	14487			0.0866336 in	0.2778007 in	0.065 in	0.016 in															
+Rectangle		TopSilkscreen	14481	14487			0.0956336 in	0.2888007 in	0.051 in	0.015 in															
+Rectangle		TopSilkscreen	14482	14487			0.1066336 in	0.3008007 in	0.037 in	0.013 in															
+Rectangle		TopSilkscreen	14483	14487			0.1156336 in	0.3098007 in	0.021 in	0.008 in															
+Rectangle		TopSilkscreen	14484	14487			0.1206336 in	0.3128007 in	0.013 in	0.012 in															
+Rectangle		TopSilkscreen	14485	14487			0.0956336 in	0.2708007 in	0.049 in	0.01 in															
+Rectangle		TopSilkscreen	14486	14487			0.1106336 in	0.2628007 in	0.027 in	0.011 in															
+Group			14487	14529																					
+Line		TopSilkscreen	14488	14495			0.0084586 in	0.3950795 in			-0.0415414 in	0.3700795 in	0.01 in												
+Line		TopSilkscreen	14489	14495			-0.0415414 in	0.3700795 in			-0.0415414 in	0.3450795 in	0.01 in												
+Line		TopSilkscreen	14490	14495			-0.0415414 in	0.3450795 in			0.0084586 in	0.3200795 in	0.01 in												
+Line		TopSilkscreen	14491	14495			0.0084586 in	0.3200795 in			0.0084586 in	0.3950795 in	0.01 in												
+Rectangle		TopSilkscreen	14492	14495			-0.0095414 in	0.3280795 in	0.014 in	0.06 in															
+Rectangle		TopSilkscreen	14493	14495			-0.0285414 in	0.3330795 in	0.022 in	0.048 in															
+Rectangle		TopSilkscreen	14494	14495			-0.0385414 in	0.3430795 in	0.016 in	0.03 in															
+Group			14495	14529																					
+Line		TopSilkscreen	14496	14507			-0.0065826 in	0.3632811 in			0.0434174 in	0.4132811 in	0.01 in												
+Line		TopSilkscreen	14497	14507			0.0434174 in	0.4132811 in			-0.0065826 in	0.4382811 in	0.01 in												
+Line		TopSilkscreen	14498	14507			-0.0065826 in	0.4382811 in			-0.0315826 in	0.4132811 in	0.01 in												
+Line		TopSilkscreen	14499	14507			-0.0315826 in	0.4132811 in			-0.0065826 in	0.3632811 in	0.01 in												
+Rectangle		TopSilkscreen	14500	14507			-0.0285826 in	0.4022811 in	0.065 in	0.016 in															
+Rectangle		TopSilkscreen	14501	14507			-0.0235826 in	0.3922811 in	0.051 in	0.015 in															
+Rectangle		TopSilkscreen	14502	14507			-0.0205826 in	0.3822811 in	0.037 in	0.013 in															
+Rectangle		TopSilkscreen	14503	14507			-0.0135826 in	0.3782811 in	0.021 in	0.008 in															
+Rectangle		TopSilkscreen	14504	14507			-0.0105826 in	0.3712811 in	0.013 in	0.012 in															
+Rectangle		TopSilkscreen	14505	14507			-0.0215826 in	0.4152811 in	0.049 in	0.01 in															
+Rectangle		TopSilkscreen	14506	14507			-0.0145826 in	0.4222811 in	0.027 in	0.011 in															
+Group			14507	14529																					
+Line		TopSilkscreen	14508	14515			0.1274709 in	0.3200795 in			0.1774709 in	0.3450795 in	0.01 in												
+Line		TopSilkscreen	14509	14515			0.1774709 in	0.3450795 in			0.1774709 in	0.3700795 in	0.01 in												
+Line		TopSilkscreen	14510	14515			0.1774709 in	0.3700795 in			0.1274709 in	0.3950795 in	0.01 in												
+Line		TopSilkscreen	14511	14515			0.1274709 in	0.3950795 in			0.1274709 in	0.3200795 in	0.01 in												
+Rectangle		TopSilkscreen	14512	14515			0.1314709 in	0.3270795 in	0.014 in	0.06 in															
+Rectangle		TopSilkscreen	14513	14515			0.1424709 in	0.3340795 in	0.022 in	0.048 in															
+Rectangle		TopSilkscreen	14514	14515			0.1584709 in	0.3420795 in	0.016 in	0.03 in															
+Group			14515	14529																					
+Line		TopSilkscreen	14516	14527			0.0904975 in	0.4134922 in			0.1404975 in	0.3634922 in	0.01 in												
+Line		TopSilkscreen	14517	14527			0.1404975 in	0.3634922 in			0.1654975 in	0.4134922 in	0.01 in												
+Line		TopSilkscreen	14518	14527			0.1654975 in	0.4134922 in			0.1404975 in	0.4384922 in	0.01 in												
+Line		TopSilkscreen	14519	14527			0.1404975 in	0.4384922 in			0.0904975 in	0.4134922 in	0.01 in												
+Rectangle		TopSilkscreen	14520	14527			0.1294975 in	0.3704922 in	0.016 in	0.065 in															
+Rectangle		TopSilkscreen	14521	14527			0.1194975 in	0.3794922 in	0.015 in	0.051 in															
+Rectangle		TopSilkscreen	14522	14527			0.1094975 in	0.3904922 in	0.013 in	0.037 in															
+Rectangle		TopSilkscreen	14523	14527			0.1054975 in	0.3994922 in	0.008 in	0.021 in															
+Rectangle		TopSilkscreen	14524	14527			0.0984975 in	0.4044922 in	0.012 in	0.013 in															
+Rectangle		TopSilkscreen	14525	14527			0.1424975 in	0.3794922 in	0.01 in	0.049 in															
+Rectangle		TopSilkscreen	14526	14527			0.1494975 in	0.3944922 in	0.011 in	0.027 in															
+Group			14527	14529																					
+Group			14529																						
+Pad	Rectangular	TopCopper	14540	14542			0.7901436 in	0.7914868 in	0.04 in	0.05 in							"1"							4	
+Pad	Rectangular	TopCopper	14541	14542			0.8661436 in	0.7914868 in	0.04 in	0.05 in							"2"							4	
+Group			14542											180°										4	
+Point		TopCopper	14543				0.7886496 in	0.7889732 in																	
+Point		TopCopper	14546				0.6203496 in	0.6977132 in																	
+Text		BottomSilkscreen	14550				-0.0026891 in	0.6336894 in											"Mesa"	Tiny	0.1275 in				
+Text		BottomSilkscreen	14551				-0.0493055 in	0.7094756 in											"Labs"	Tiny	0.1275 in				
+Point		TopCopper	14568				0.5892026 in	0.9506855 in																	
+Pad			14573	14585			-0.25 in	0.15 in	0.065 in	0.065 in				90°			"1"					0.04 in		1	
+Pad			14574	14585			-0.15 in	0.15 in	0.065 in	0.065 in				90°			"3"					0.04 in	InnerCopperUpper Thermal,BottomCopper Thermal	1	
+Pad			14575	14585			-0.05 in	0.15 in	0.065 in	0.065 in				90°			"5"					0.04 in		1	
+Pad			14576	14585			0.05 in	0.15 in	0.065 in	0.065 in				90°			"7"					0.04 in		1	
+Pad			14577	14585			0.15 in	0.15 in	0.065 in	0.065 in				90°			"9"					0.04 in		1	
+Pad			14578	14585			0.15 in	0.05 in	0.065 in	0.065 in				90°			"10"					0.04 in		1	
+Pad			14579	14585			0.05 in	0.05 in	0.065 in	0.065 in				90°			"8"					0.04 in		1	
+Pad			14580	14585			-0.05 in	0.05 in	0.065 in	0.065 in				90°			"6"					0.04 in		1	
+Pad			14581	14585			-0.15 in	0.05 in	0.065 in	0.065 in				90°			"4"					0.04 in	InnerCopperUpper Thermal,BottomCopper Thermal	1	
+Pad			14582	14585			-0.25 in	0.05 in	0.065 in	0.065 in				90°			"2"					0.04 in		1	
+Pad			14583	14585			0.25 in	0.15 in	0.065 in	0.065 in				90°			"11"					0.04 in		1	
+Pad			14584	14585			0.25 in	0.05 in	0.065 in	0.065 in				90°			"12"					0.04 in		1	
+Group			14585																					1	
+Text		TopSilkscreen	14621				-0.0027026 in	-0.0154866 in											"PMOD P1"	Tiny	0.068 in			1	
+Trace		TopCopper	14622		14574	14581							0.025 in											1	
+Trace		BottomCopper	14623		14573	14582							0.025 in											1	
+Text		TopSilkscreen	14631				0.2751002 in	0.1800514 in											"1"	Teeny	0.102 in			1	
+Text		TopSilkscreen	14635				0.1917001 in	0.0843437 in											"0"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14636				0.1917001 in	0.1843437 in											"1"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14637				0.0917001 in	0.0843437 in											"2"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14638				0.0917001 in	0.1843437 in											"3"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14639				-0.0082999 in	0.0843437 in											"4"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14640				-0.0082999 in	0.1843437 in											"5"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14641				-0.1082999 in	0.0843437 in											"6"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14642				-0.1082999 in	0.1843437 in											"7"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14647				-0.1849796 in	-0.0156371 in											"GND"	Teeny	0.0595 in			1	
+Text		TopSilkscreen	14648				-0.2804869 in	-0.0135207 in											"3V"	Teeny	0.0595 in			1	
+Pad			14658	14670			0.65 in	0.15 in	0.065 in	0.065 in				90°			"1"					0.04 in		1	
+Pad			14659	14670			0.75 in	0.15 in	0.065 in	0.065 in				90°			"3"					0.04 in	InnerCopperUpper Thermal,BottomCopper Thermal	1	
+Pad			14660	14670			0.85 in	0.15 in	0.065 in	0.065 in				90°			"5"					0.04 in		1	
+Pad			14661	14670			0.95 in	0.15 in	0.065 in	0.065 in				90°			"7"					0.04 in		1	
+Pad			14662	14670			1.05 in	0.15 in	0.065 in	0.065 in				90°			"9"					0.04 in		1	
+Pad			14663	14670			1.05 in	0.05 in	0.065 in	0.065 in				90°			"10"					0.04 in		1	
+Pad			14664	14670			0.95 in	0.05 in	0.065 in	0.065 in				90°			"8"					0.04 in		1	
+Pad			14665	14670			0.85 in	0.05 in	0.065 in	0.065 in				90°			"6"					0.04 in		1	
+Pad			14666	14670			0.75 in	0.05 in	0.065 in	0.065 in				90°			"4"					0.04 in	InnerCopperUpper Thermal,BottomCopper Thermal	1	
+Pad			14667	14670			0.65 in	0.05 in	0.065 in	0.065 in				90°			"2"					0.04 in		1	
+Pad			14668	14670			1.15 in	0.15 in	0.065 in	0.065 in				90°			"11"					0.04 in		1	
+Pad			14669	14670			1.15 in	0.05 in	0.065 in	0.065 in				90°			"12"					0.04 in		1	
+Group			14670																					1	
+Text		TopSilkscreen	14671				0.892517 in	-0.016969 in											"PMOD P2"	Tiny	0.068 in			1	
+Trace		TopCopper	14672		14659	14666							0.025 in											1	
+Trace		BottomCopper	14673		14658	14667							0.025 in											1	
+Text		TopSilkscreen	14674				1.15 in	0.2 in											"1"	Teeny	0.102 in			1	
+Text		TopSilkscreen	14678				1.0917001 in	0.0843437 in											"0"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14679				1.0917001 in	0.1843437 in											"1"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14680				0.9917001 in	0.0843437 in											"2"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14681				0.9917001 in	0.1843437 in											"3"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14682				0.8917001 in	0.0843437 in											"4"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14683				0.8917001 in	0.1843437 in											"5"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14684				0.7917001 in	0.0843437 in											"6"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14685				0.7917001 in	0.1843437 in											"7"	Teeny	0.085 in			1	
+Text		TopSilkscreen	14686				0.7150204 in	-0.0146917 in											"GND"	Teeny	0.0595 in			1	
+Text		TopSilkscreen	14687				0.6195131 in	-0.0125753 in											"3V"	Teeny	0.0595 in			1	
+Trace		BottomCopper	14743		405	428							0.02 in											1	
+Point		BottomCopper	14744				0.5636517 in	0.3647155 in																1	
+Trace		BottomCopper	14745		428	14744							0.02 in											1	
+Point		BottomCopper	14746				0.5759636 in	0.4745413 in																1	
+Trace		BottomCopper	14747		14744	16283							0.02 in											1	
+Trace		BottomCopper	14749		14746	16132							0.01 in											1	
+Pad	Via		14752				0.3988028 in	0.210136 in	0.031 in	0.031 in												0.014 in		1	
+Point		BottomCopper	14753				0.4275964 in	0.2106804 in																1	
+Trace		BottomCopper	14754		14752	14753							0.02 in											1	
+Point		BottomCopper	14755				0.4797946 in	0.2305481 in																1	
+Trace		BottomCopper	14756		14753	16386							0.02 in											1	
+Trace		BottomCopper	14758		14755	16281							0.02 in											1	
+Pad	Rectangular	TopCopper	14765	14767			0.8829281 in	0.4606789 in	0.03 in	0.03 in				90°			"1"							2	
+Pad	Rectangular	TopCopper	14766	14767			0.9379281 in	0.4606789 in	0.03 in	0.03 in				90°			"2"							2	
+Group			14767											270°										2	
+Point		TopCopper	14768				0.8591502 in	0.2162822 in																2	
+Trace		TopCopper	14769		14768	349							0.008 in											2	
+Point		TopCopper	14774				0.8866332 in	0.3242886 in																2	
+Trace		TopCopper	14775		14774	535							0.008 in											2	
+Point		TopCopper	14778				0.9120855 in	0.3290561 in																2	
+Trace		TopCopper	14779		14778	360							0.008 in											2	
+Point		TopCopper	14784				0.9363568 in	0.3327534 in																2	
+Trace		TopCopper	14785		14784	419							0.008 in											2	
+Trace		TopCopper	14787		14661	14798							0.008 in											2	
+Point		TopCopper	14790				0.884253 in	0.2106806 in																2	
+Trace		TopCopper	14791		14790	14774							0.008 in											2	
+Trace		TopCopper	14795		355	14796							0.008 in											2	
+Point		TopCopper	14796				0.9111179 in	0.2053677 in																2	
+Trace		TopCopper	14797		14796	14778							0.008 in											2	
+Point		TopCopper	14798				0.9357509 in	0.2016483 in																2	
+Trace		TopCopper	14799		14798	14784							0.008 in											2	
+Point		TopCopper	14811				0.9903378 in	0.2043619 in																2	
+Trace		TopCopper	14812		1300	14811							0.008 in											2	
+Point		TopCopper	14813				0.9997779 in	0.1887516 in																2	
+Trace		TopCopper	14814		14811	14813							0.008 in											2	
+Point		TopCopper	14815				1.0007873 in	0.098918 in																2	
+Trace		TopCopper	14816		14813	14815							0.008 in											2	
+Point		TopCopper	14817				1.0257393 in	0.1938882 in																2	
+Trace		TopCopper	14818		14662	14817							0.008 in											2	
+Point		TopCopper	14819				1.0088609 in	0.216979 in																2	
+Trace		TopCopper	14820		14817	14819							0.008 in											2	
+Point		TopCopper	14821				1.0078516 in	0.4818015 in																2	
+Trace		TopCopper	14822		14819	14821							0.008 in											2	
+Point		TopCopper	14823				0.9932888 in	0.505225 in																2	
+Trace		TopCopper	14824		14821	14823							0.008 in											2	
+Trace		TopCopper	14826		14823	2006							0.008 in											2	
+Point		TopCopper	14827				1.0282731 in	0.2297829 in																2	
+Trace		TopCopper	14828		546	14827							0.008 in											2	
+Point		TopCopper	14829				1.101115 in	0.1738336 in																2	
+Trace		TopCopper	14830		14827	14829							0.008 in											2	
+Point		TopCopper	14831				1.1004544 in	0.0997411 in																2	
+Trace		TopCopper	14832		14829	14831							0.008 in											2	
+Point		TopCopper	14833				1.0509294 in	0.2440501 in																2	
+Trace		TopCopper	14834		528	14833							0.008 in											2	
+Point		TopCopper	14835				1.1194197 in	0.1909004 in																2	
+Trace		TopCopper	14836		14833	14835							0.008 in											2	
+Trace		TopCopper	14838		14835	14668							0.008 in											2	
+Pad	Via		14839				0.0485391 in	0.2152652 in	0.031 in	0.031 in												0.014 in		2	
+Point		TopCopper	14840				0.1425636 in	0.3970063 in																2	
+Trace		TopCopper	14841		479	14840							0.008 in											2	
+Point		TopCopper	14842				0.1425636 in	0.2189288 in																2	
+Trace		TopCopper	14843		14840	14842							0.008 in											2	
+Point		TopCopper	14844				0.1223949 in	0.4112022 in																2	
+Trace		TopCopper	14845		483	14844							0.008 in											2	
+Point		TopCopper	14846				0.1223949 in	0.2078723 in																2	
+Trace		TopCopper	14847		14844	14846							0.008 in											2	
+Point		TopCopper	14848				0.1016112 in	0.4290424 in																2	
+Trace		TopCopper	14849		488	14848							0.008 in											2	
+Point		TopCopper	14854				0.0815135 in	0.4432233 in																2	
+Trace		TopCopper	14855		493	14854							0.008 in											2	
+Point		TopCopper	14856				0.0809513 in	0.1934226 in																2	
+Trace		TopCopper	14857		14854	14856							0.008 in											2	
+Trace		TopCopper	14859		1441	15939							0.008 in											2	
+Point		TopCopper	14860				0.0211291 in	0.4710671 in																2	
+Trace		TopCopper	14861		510	14860							0.008 in											2	
+Point		TopCopper	14862				0.0201343 in	0.1930652 in																2	
+Trace		TopCopper	14863		14860	14862							0.008 in											2	
+Point		TopCopper	14864				0.0019347 in	0.488952 in																2	
+Trace		TopCopper	14865		693	14864							0.008 in											2	
+Point		TopCopper	14866				0.0010829 in	0.2482651 in																2	
+Trace		TopCopper	14868		14866	14864							0.008 in											2	
+Point		TopCopper	14869				-0.020627 in	0.5069439 in																2	
+Trace		TopCopper	14870		508	14869							0.008 in											2	
+Point		TopCopper	14871				-0.0227563 in	0.2613402 in																2	
+Trace		TopCopper	14872		14869	14871							0.008 in											2	
+Point		TopCopper	14873				0 in	0.1 in																2	
+Trace		TopCopper	14874		14580	14873							0.008 in											2	
+Point		TopCopper	14875				0 in	0.1763476 in																2	
+Trace		TopCopper	14876		14873	14875							0.008 in											2	
+Point		TopCopper	14877				-0.0235592 in	0.190395 in																2	
+Trace		TopCopper	14878		14575	14877							0.008 in											2	
+Point		TopCopper	14881				0.1 in	0.1 in																2	
+Trace		TopCopper	14882		14579	14881							0.008 in											2	
+Point		TopCopper	14883				0.1 in	0.164782 in																2	
+Trace		TopCopper	14884		14881	14883							0.008 in											2	
+Point		TopCopper	14885				0.1017803 in	0.1969654 in																2	
+Trace		TopCopper	14886		14577	14885							0.008 in											2	
+Point		TopCopper	14887				0.2 in	0.1 in																2	
+Trace		TopCopper	14888		14578	14887							0.008 in											2	
+Point		TopCopper	14889				0.2 in	0.1864697 in																2	
+Trace		TopCopper	14890		14887	14889							0.008 in											2	
+Point		TopCopper	14891				0.2214841 in	0.1972857 in																2	
+Trace		TopCopper	14892		14583	14891							0.008 in											2	
+Trace		TopCopper	14894		14842	14891							0.008 in											2	
+Trace		TopCopper	14896		14846	14889							0.008 in											2	
+Trace		TopCopper	14898		14848	14885							0.008 in											2	
+Trace		TopCopper	14900		14883	14856							0.008 in											2	
+Trace		TopCopper	14904		14875	14866							0.008 in											2	
+Trace		TopCopper	14906		14877	14871							0.008 in											2	
+Point		BottomCopper	14917				0.7426465 in	0.7687563 in																2	
+Group			14933																					2	
+Point		TopCopper	14934				0.3592445 in	0.7097341 in																2	
+Point		TopCopper	14936				0.3526139 in	0.6931637 in																2	
+Pad	Via		14940				0.425 in	0.925 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	2	
+Point		TopCopper	14945				0.4257033 in	0.7918843 in																2	
+Trace		TopCopper	14948		14945	545							0.008 in											2	
+Trace		TopCopper	14951		14940	576							0.02 in											2	
+Trace		TopCopper	14954		578	597							0.008 in											2	
+Point		TopCopper	14961				0.6917212 in	0.7849913 in																2	
+Trace		TopCopper	14962		14961	14963							0.008 in											2	
+Point		TopCopper	14963				0.5561124 in	0.6680218 in																2	
+Trace		TopCopper	14964		14963	1999							0.008 in											2	
+Point		TopCopper	14965				0.672595 in	0.7905638 in																2	
+Point		TopCopper	14967				0.5817027 in	0.7437987 in																2	
+Trace		TopCopper	14968		14967	614							0.01 in											2	
+Point		TopCopper	14973				0.646619 in	0.9511074 in																2	
+Trace		TopCopper	14976		14973	5381							0.008 in											2	
+Trace		TopCopper	14978		640	14967							0.01 in											2	
+Trace		TopCopper	14980		14568	5383							0.008 in											2	
+Trace		TopCopper	14982		662	5384							0.008 in											2	
+Pad	Via		14983				0.2867865 in	0.8266598 in	0.031 in	0.031 in												0.014 in		2	
+Pad	Via		14984				0.3325735 in	0.8369933 in	0.031 in	0.031 in												0.014 in		2	
+Pad	Via		14985				0.2906997 in	0.8855137 in	0.031 in	0.031 in												0.014 in		2	
+Pad	Via		14986				0.3382543 in	0.8855991 in	0.031 in	0.031 in												0.014 in		2	
+Point		TopCopper	14987				0.3295392 in	0.916363 in																2	
+Trace		TopCopper	14988		14985	14987							0.008 in											2	
+Trace		TopCopper	14990		14987	5341							0.008 in											2	
+Trace		TopCopper	14994		14986	15055							0.008 in											2	
+Point		BottomCopper	14998				0.3144677 in	0.8562372 in																2	
+Trace		BottomCopper	14999		14984	14998							0.01 in											2	
+Point		BottomCopper	15000				0.2642059 in	0.8563007 in																2	
+Trace		BottomCopper	15001		14998	15000							0.01 in											2	
+Point		BottomCopper	15002				0.2547603 in	0.8695828 in																2	
+Trace		BottomCopper	15003		15000	15002							0.01 in											2	
+Point		BottomCopper	15004				0.2544951 in	0.8772503 in																2	
+Trace		BottomCopper	15005		15002	15004							0.01 in											2	
+Point		BottomCopper	15006				0.2651027 in	0.890775 in																2	
+Trace		BottomCopper	15007		15004	15006							0.01 in											2	
+Point		BottomCopper	15008				0.275 in	0.8907719 in																2	
+Trace		BottomCopper	15009		15006	15008							0.01 in											2	
+Trace		BottomCopper	15011		15008	14985							0.01 in											2	
+Point		BottomCopper	15012				0.258074 in	0.8324499 in																2	
+Trace		BottomCopper	15013		14983	15012							0.01 in											2	
+Point		BottomCopper	15014				0.232558 in	0.862695 in																2	
+Trace		BottomCopper	15015		15012	15014							0.01 in											2	
+Point		BottomCopper	15016				0.2323886 in	0.8834099 in																2	
+Trace		BottomCopper	15017		15014	15016							0.01 in											2	
+Point		BottomCopper	15018				0.2572943 in	0.9152048 in																2	
+Trace		BottomCopper	15019		15016	15018							0.01 in											2	
+Point		BottomCopper	15020				0.3196076 in	0.9150767 in																2	
+Trace		BottomCopper	15021		15018	15020							0.01 in											2	
+Trace		BottomCopper	15023		15020	14986							0.01 in											2	
+Trace		TopCopper	15025		544	15044							0.02 in											2	
+Point		TopCopper	15044				0.4289602 in	0.8992118 in																2	
+Trace		TopCopper	15045		15044	576							0.02 in											2	
+Trace		TopCopper	15047		5338	15052							0.015 in											2	
+Trace		TopCopper	15051		1576	14984							0.008 in											2	
+Point		TopCopper	15052				0.3808859 in	0.9255607 in																2	
+Trace		TopCopper	15053		15052	544							0.015 in											2	
+Point		TopCopper	15055				0.3545928 in	0.9029654 in																2	
+Trace		TopCopper	15056		15055	5340							0.008 in											2	
+Point		TopCopper	15057				0.6712901 in	0.9488901 in																2	
+Trace		TopCopper	15058		15057	5382							0.008 in											2	
+Point		TopCopper	15059				0.6933814 in	0.9140082 in																2	
+Trace		TopCopper	15060		15059	15057							0.008 in											2	
+Trace		TopCopper	15062		14961	15059							0.008 in											2	
+Point		TopCopper	15063				0.6484435 in	0.9443761 in																2	
+Trace		TopCopper	15064		15063	14973							0.008 in											2	
+Point		TopCopper	15065				0.6746613 in	0.9075382 in																2	
+Trace		TopCopper	15066		15065	15063							0.008 in											2	
+Trace		TopCopper	15068		14965	15065							0.008 in											2	
+Pad	Rectangular	TopCopper	15069	15071			0.6410391 in	0.881283 in	0.03 in	0.03 in							"1"							2	
+Pad	Rectangular	TopCopper	15070	15071			0.6410391 in	0.826283 in	0.03 in	0.03 in							"2"							2	
+Group			15071											180°										2	
+Point		TopCopper	15072				0.5652215 in	0.7916331 in																2	
+Trace		TopCopper	15073		15072	420							0.008 in											2	
+Point		TopCopper	15074				0.5465679 in	0.7893005 in																2	
+Trace		TopCopper	15075		15074	1473							0.008 in											2	
+Trace		TopCopper	15077		614	15070							0.008 in											2	
+Trace		TopCopper	15079		5373	15643							0.015 in											2	
+Trace		TopCopper	15081		15642	15069							0.015 in											2	
+Point		TopCopper	15084				0.2683053 in	0.7201291 in																2	
+Trace		TopCopper	15085		14934	15873							0.008 in											2	
+Point		TopCopper	15086				0.233422 in	0.8599332 in																2	
+Trace		TopCopper	15087		15084	15871							0.008 in											2	
+Trace		TopCopper	15089		15086	534							0.01 in											2	
+Trace		TopCopper	15095		14936	15604							0.008 in											2	
+Text		TopSilkscreen	15096				-0.1101873 in	0.4983747 in						90°					"10"	Teeny	0.051 in			2	
+Pad	Rectangular	TopCopper	15097	15107			-0.05943 in	0.3714515 in	0.04 in	0.026 in				90°			"2"							2	
+Pad	Rectangular	TopCopper	15098	15107			-0.05943 in	0.3334515 in	0.04 in	0.026 in				90°			"3"							2	
+Pad	Rectangular	TopCopper	15099	15107			-0.05943 in	0.4094515 in	0.04 in	0.026 in				90°			"1"							2	
+Pad	Rectangular	TopCopper	15100	15107			-0.16143 in	0.4094515 in	0.04 in	0.026 in				90°			"5"							2	
+Pad	Rectangular	TopCopper	15101	15107			-0.16143 in	0.3334515 in	0.04 in	0.026 in				90°			"4"							2	
+Line		TopSilkscreen	15102	15107			-0.12643 in	0.4214515 in			-0.10443 in	0.4214515 in	0.008 in											2	
+Line		TopSilkscreen	15103	15107			-0.12643 in	0.4214515 in			-0.12643 in	0.3214515 in	0.008 in											2	
+Line		TopSilkscreen	15104	15107			-0.12643 in	0.3214515 in			-0.09643 in	0.3214515 in	0.008 in											2	
+Line		TopSilkscreen	15105	15107			-0.09643 in	0.4134515 in			-0.09643 in	0.3214515 in	0.008 in											2	
+Line		TopSilkscreen	15106	15107			-0.10443 in	0.4214515 in			-0.09643 in	0.4134515 in	0.008 in											2	
+Group			15107															"SMT - SOT-23  5 pin  (top surface)"						2	
+Trace		TopCopper	15108		15098	15125							0.02 in											2	
+Point		TopCopper	15109				-0.1093533 in	0.4092806 in																2	
+Trace		TopCopper	15110		15109	15099							0.02 in											2	
+Point		TopCopper	15111				-0.1620023 in	0.4400366 in																2	
+Group			15115											180°										2	
+Pad	Rectangular	TopCopper	15116	15115			-0.0596563 in	0.4806171 in	0.04 in	0.05 in				180°			"1"							2	
+Pad	Rectangular	TopCopper	15117	15115			-0.1356563 in	0.4806171 in	0.04 in	0.05 in				180°			"2"							2	
+Trace		TopCopper	15118		15125	15266							0.02 in											2	
+Trace		TopCopper	15120		15097	16022							0.02 in											2	
+Trace		TopCopper	15124		15111	15117							0.02 in											2	
+Point		TopCopper	15125				-0.1085135 in	0.3333525 in																2	
+Text		TopSilkscreen	15127				0.8608609 in	0.716437 in						90°					"10"	Teeny	0.051 in			2	
+Pad	Rectangular	TopCopper	15128	15138			0.9250335 in	0.6015501 in	0.04 in	0.026 in				90°			"2"							2	
+Pad	Rectangular	TopCopper	15129	15138			0.9250335 in	0.5635501 in	0.04 in	0.026 in				90°			"3"							2	
+Pad	Rectangular	TopCopper	15130	15138			0.9250335 in	0.6395501 in	0.04 in	0.026 in				90°			"1"							2	
+Pad	Rectangular	TopCopper	15131	15138			0.8230335 in	0.6395501 in	0.04 in	0.026 in				90°			"5"							2	
+Pad	Rectangular	TopCopper	15132	15138			0.8230335 in	0.5635501 in	0.04 in	0.026 in				90°			"4"							2	
+Line		TopSilkscreen	15133	15138			0.8580335 in	0.6515501 in			0.8800335 in	0.6515501 in	0.008 in											2	
+Line		TopSilkscreen	15134	15138			0.8580335 in	0.6515501 in			0.8580335 in	0.5515501 in	0.008 in											2	
+Line		TopSilkscreen	15135	15138			0.8580335 in	0.5515501 in			0.8880335 in	0.5515501 in	0.008 in											2	
+Line		TopSilkscreen	15136	15138			0.8880335 in	0.6435501 in			0.8880335 in	0.5515501 in	0.008 in											2	
+Line		TopSilkscreen	15137	15138			0.8800335 in	0.6515501 in			0.8880335 in	0.6435501 in	0.008 in											2	
+Group			15138															"SMT - SOT-23  5 pin  (top surface)"						2	
+Trace		TopCopper	15139		15129	15155							0.02 in											2	
+Point		TopCopper	15140				0.8801846 in	0.6273483 in																2	
+Trace		TopCopper	15141		15140	15471							0.02 in											2	
+Text		TopSilkscreen	15144				0.80585 in	0.6230856 in						90°					"3V"	Teeny	0.0595 in			2	
+Group			15145											180°										2	
+Pad	Rectangular	TopCopper	15146	15145			0.9089043 in	0.6972177 in	0.04 in	0.05 in				180°			"1"							2	
+Pad	Rectangular	TopCopper	15147	15145			0.8329043 in	0.6972177 in	0.04 in	0.05 in				180°			"2"							2	
+Trace		TopCopper	15148		15155	15276							0.02 in											2	
+Text		TopSilkscreen	15151				0.4236976 in	0.1577115 in											"Vio"	Tiny	0.0595 in			2	
+Trace		TopCopper	15154		15131	15147							0.02 in											2	
+Point		TopCopper	15155				0.8802125 in	0.5633912 in																2	
+Point		TopCopper	15164				0.4145018 in	0.2718317 in																2	
+Trace		TopCopper	15165		15164	15978							0.01 in											2	
+Pad	Rectangular	TopCopper	15170	15180			0.5540381 in	0.171717 in	0.04 in	0.026 in				90°			"2"							2	
+Pad	Rectangular	TopCopper	15171	15180			0.5540381 in	0.133717 in	0.04 in	0.026 in				90°			"3"							2	
+Pad	Rectangular	TopCopper	15172	15180			0.5540381 in	0.209717 in	0.04 in	0.026 in				90°			"1"							2	
+Pad	Rectangular	TopCopper	15173	15180			0.4520381 in	0.209717 in	0.04 in	0.026 in				90°			"5"							2	
+Pad	Rectangular	TopCopper	15174	15180			0.4520381 in	0.133717 in	0.04 in	0.026 in				90°			"4"							2	
+Line		TopSilkscreen	15175	15180			0.4870381 in	0.221717 in			0.5090381 in	0.221717 in	0.008 in											2	
+Line		TopSilkscreen	15176	15180			0.4870381 in	0.221717 in			0.4870381 in	0.121717 in	0.008 in											2	
+Line		TopSilkscreen	15177	15180			0.4870381 in	0.121717 in			0.5170381 in	0.121717 in	0.008 in											2	
+Line		TopSilkscreen	15178	15180			0.5170381 in	0.213717 in			0.5170381 in	0.121717 in	0.008 in											2	
+Line		TopSilkscreen	15179	15180			0.5090381 in	0.221717 in			0.5170381 in	0.213717 in	0.008 in											2	
+Group			15180															"SMT - SOT-23  5 pin  (top surface)"						2	
+Group			15186											270°										3	
+Pad	Rectangular	TopCopper	15187	15186			0.3363018 in	0.1243688 in	0.05 in	0.04 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15188	15186			0.3363018 in	0.2003688 in	0.05 in	0.04 in				270°			"2"							3	
+Pad	Via		15196				0.8065004 in	0.6997262 in	0.031 in	0.031 in												0.014 in		2	
+Trace		TopCopper	15211		15117	15437							0.02 in											2	
+Trace		TopCopper	15228		15230	15170							0.02 in											2	
+Pad	Via		15230				0.5862815 in	0.1721419 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	2	
+Trace		TopCopper	15237		16021	15116							0.02 in											2	
+Trace		TopCopper	15239		16100	15128							0.02 in											2	
+Pad			15243				0.4 in	0.05 in	0.065 in	0.065 in				90°			"4"					0.04 in	InnerCopperUpper Thermal,BottomCopper Thermal	3	
+Pad			15244				0.5 in	0.05 in	0.065 in	0.065 in				90°			"8"					0.04 in		3	
+Trace		TopCopper	15246		518	14665							0.008 in											3	
+Trace		TopCopper	15248		647	14664							0.008 in											3	
+Trace		TopCopper	15250		14815	14663							0.008 in											3	
+Trace		TopCopper	15252		14831	14669							0.008 in											3	
+Point		BottomCopper	15253				-0.3068525 in	0.1937249 in																3	
+Point		BottomCopper	15254				-0.3075509 in	-0.0081284 in																3	
+Trace		BottomCopper	15255		15253	15254							0.02 in											3	
+Point		BottomCopper	15256				1.2073578 in	-0.0076555 in																3	
+Trace		BottomCopper	15257		15254	15289							0.02 in											3	
+Point		BottomCopper	15258				1.204127 in	0.1976866 in																3	
+Trace		BottomCopper	15259		15256	15258							0.02 in											3	
+Point		BottomCopper	15260				0.8168131 in	1.0635281 in																3	
+Trace		BottomCopper	15261		15258	15279							0.02 in											3	
+Point		BottomCopper	15262				0.1055368 in	1.0635281 in																3	
+Trace		BottomCopper	15263		15260	15262							0.02 in											3	
+Pad	Via		15266				-0.1296642 in	0.3710573 in	0.031 in	0.031 in												0.014 in		3	
+Trace		TopCopper	15269		15266	15109							0.02 in											3	
+Point		BottomCopper	15270				-0.2068003 in	0.4057078 in																3	
+Trace		BottomCopper	15272		15270	15253							0.02 in											3	
+Trace		BottomCopper	15274		15266	15270							0.02 in											3	
+Point		TopCopper	15276				0.8802008 in	0.6016398 in																3	
+Trace		TopCopper	15277		16095	15276							0.02 in											3	
+Trace		TopCopper	15278		15276	15140							0.02 in											3	
+Point		BottomCopper	15279				1.0739333 in	0.4931849 in																3	
+Trace		BottomCopper	15281		15279	15316							0.02 in											3	
+Point		BottomCopper	15289				0.5 in	-0.008189 in																3	
+Trace		BottomCopper	15290		15244	15289							0.02 in											3	
+Trace		BottomCopper	15291		15289	15256							0.02 in											3	
+Pad	Via		15292				0.1782715 in	0.3469951 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	3	
+Text		TopSilkscreen	15296				0.3162102 in	0.0878799 in						90°					"GND"	Tiny	0.085 in			3	
+Text		TopSilkscreen	15297				0.5550616 in	0.0668576 in						90°					"5V"	Tiny	0.102 in			3	
+Point		TopCopper	15305				0.303747 in	0.9506588 in																3	
+Trace		TopCopper	15306		5342	15305							0.015 in											3	
+Point		TopCopper	15307				0.2849001 in	0.9506588 in																3	
+Trace		TopCopper	15308		15305	15307							0.015 in											3	
+Trace		TopCopper	15310		15307	15585							0.015 in											3	
+Pad	Via		15315				0.9160342 in	0.7510558 in	0.031 in	0.031 in												0.014 in		3	
+Point		BottomCopper	15316				0.9509273 in	0.7677666 in																3	
+Trace		BottomCopper	15317		15315	15316							0.02 in											3	
+Trace		BottomCopper	15318		15316	15260							0.02 in											3	
+Trace		BottomCopper	15339		15262	15270							0.02 in											3	
+Text		TopSilkscreen	15341				-0.112382 in	0.2820249 in						90°					"10"	Teeny	0.051 in			3	
+Group			15342											180°										3	
+Pad	Rectangular	TopCopper	15343	15342			-0.061851 in	0.2642673 in	0.04 in	0.05 in				180°			"1"							3	
+Pad	Rectangular	TopCopper	15344	15342			-0.137851 in	0.2642673 in	0.04 in	0.05 in				180°			"2"							3	
+Point		TopCopper	15345				-0.1189679 in	0.3067272 in																3	
+Trace		TopCopper	15346		15125	15345							0.02 in											3	
+Trace		TopCopper	15348		15345	15359							0.02 in											3	
+Trace		TopCopper	15353		15343	15607							0.02 in											3	
+Point		TopCopper	15359				-0.1395177 in	0.2952652 in																3	
+Trace		TopCopper	15360		15359	15344							0.02 in											3	
+Text		TopSilkscreen	15361				0.3140197 in	0.1530897 in											"10"	Teeny	0.051 in			3	
+Point		BottomCopper	15362				0.5308729 in	0.6228772 in																3	
+Trace		BottomCopper	15363		15362	399							0.02 in											3	
+Pad	Rectangular	TopCopper	15364	15366			0.8115089 in	0.9879304 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15365	15366			0.7565089 in	0.9879304 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15366											90°										3	
+Pad	Rectangular	TopCopper	15367	15369			0.8117904 in	0.9338255 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15368	15369			0.7567904 in	0.9338255 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15369											90°										3	
+Pad	Via		15370				0.8940936 in	0.7905928 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	3	
+Point		TopCopper	15377				0.763511 in	1.125 in																3	
+Trace		TopCopper	15380		15377	5389							0.02 in											3	
+Text		TopSilkscreen	15381				0.7634826 in	0.9785549 in											"1M"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15382				0.7774149 in	0.9251092 in											"C"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15383				0.8175899 in	0.8135261 in						90°					"10"	Teeny	0.051 in			4	
+Pad	Rectangular	TopCopper	15384	15386			0.0706115 in	0.5693899 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15385	15386			0.0156115 in	0.5693899 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15386																					3	
+Pad	Rectangular	TopCopper	15387	15389			0.0706115 in	0.6241421 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15388	15389			0.0156115 in	0.6241421 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15389																					3	
+Pad	Rectangular	TopCopper	15390	15392			0.0269869 in	0.7304195 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15391	15392			-0.0280131 in	0.7304195 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15392																					3	
+Pad	Rectangular	TopCopper	15393	15395			0.0074164 in	0.6742676 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15394	15395			-0.0475836 in	0.6742676 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15395																					3	
+Point		TopCopper	15409				0.0974637 in	0.5368207 in																3	
+Trace		TopCopper	15410		1981	15409							0.008 in											3	
+Trace		TopCopper	15412		15409	15384							0.008 in											3	
+Point		TopCopper	15413				0.1246625 in	0.5525466 in																3	
+Trace		TopCopper	15414		1982	15413							0.008 in											3	
+Trace		TopCopper	15416		15413	16007							0.008 in											3	
+Point		TopCopper	15417				0.1401635 in	0.5683642 in																3	
+Trace		TopCopper	15418		15393	16012							0.008 in											3	
+Trace		TopCopper	15420		15417	1983							0.008 in											3	
+Trace		TopCopper	15422		1984	15582							0.008 in											3	
+Point		TopCopper	15427				-0.1228853 in	0.5850623 in																3	
+Trace		TopCopper	15429		15427	15569							0.02 in											3	
+Trace		TopCopper	15433		15388	15385							0.01 in											3	
+Pad	Rectangular	TopCopper	15434	15436			-0.0420018 in	0.5436117 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15435	15436			-0.0970018 in	0.5436117 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15436																					3	
+Point		TopCopper	15437				-0.1464152 in	0.5329829 in																3	
+Trace		TopCopper	15438		15437	15427							0.02 in											3	
+Trace		TopCopper	15442		15435	15116							0.01 in											3	
+Point		TopCopper	15446				-0.0173134 in	0.5395502 in																3	
+Trace		TopCopper	15447		15434	15446							0.008 in											3	
+Point		TopCopper	15448				0.0516283 in	0.5395502 in																3	
+Trace		TopCopper	15449		15446	15448							0.008 in											3	
+Trace		TopCopper	15451		15448	15384							0.008 in											3	
+Text		TopSilkscreen	15453				0.0141748 in	0.5599615 in											"10K"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15454				0.0131272 in	0.6141519 in											"10K"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15455				-0.0493695 in	0.6641867 in											"10K"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15456				-0.0301482 in	0.7203633 in											"10K"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15457				-0.0760635 in	0.5348766 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15458				0.1963936 in	0.6036827 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15459				0.2043242 in	0.3728306 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15462				0.9253161 in	0.3927189 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15463				0.9031441 in	0.4510355 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15465				0.4412665 in	0.8615028 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15466				0.5105807 in	0.8302798 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15467				0.5738527 in	0.830659 in											"c"	Teeny	0.051 in			3	
+Text		TopSilkscreen	15468				0.6345904 in	0.8444064 in											"c"	Teeny	0.051 in			3	
+Pad	Via		15469				0.7271745 in	0.5774316 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	5	
+Point		TopCopper	15471				0.8988256 in	0.6383188 in																3	
+Trace		TopCopper	15472		15471	15130							0.02 in											3	
+Trace		TopCopper	15479		15147	15196							0.02 in											3	
+Pad	Rectangular	TopCopper	15485	15487			-0.1933753 in	0.2559003 in	0.03 in	0.03 in				270°			"1"							3	
+Pad	Rectangular	TopCopper	15486	15487			-0.2483753 in	0.2559003 in	0.03 in	0.03 in				270°			"2"							3	
+Group			15487																					3	
+Text		TopSilkscreen	15488				-0.2484576 in	0.2461954 in											"10K"	Teeny	0.051 in			3	
+Point		TopCopper	15492				-0.1188777 in	0.2145768 in																3	
+Trace		TopCopper	15493		15485	15909							0.01 in											3	
+Point		TopCopper	15499				-0.197317 in	0.4093904 in																3	
+Trace		TopCopper	15500		15486	15552							0.01 in											3	
+Trace		TopCopper	15502		15499	15100							0.01 in											3	
+Trace		TopCopper	15503		15100	15111							0.02 in											3	
+Text		TopSilkscreen	15504				-0.0309135 in	0.449824 in											"OSH"	Anytime	0.102 in			3	
+Point		TopCopper	15514				0.8594996 in	0.4170681 in																4	
+Trace		TopCopper	15515		15514	404							0.01 in											4	
+Text		TopSilkscreen	15521				0.8383183 in	0.2297816 in											"Black"	Tiny	0.102 in			4	
+Text		TopSilkscreen	15522				0.8678017 in	0.2808709 in											"Mesa"	Tiny	0.102 in			4	
+Text		TopSilkscreen	15523				0.9073452 in	0.3320736 in											"Labs"	Tiny	0.102 in			4	
+Point		TopCopper	15524				0.7897691 in	0.7435497 in																4	
+Trace		TopCopper	15525		15524	15716							0.02 in											4	
+Trace		TopCopper	15527		15524	14543							0.02 in											4	
+Trace		TopCopper	15529		15364	15655							0.02 in											4	
+Trace		TopCopper	15531		15364	15367							0.02 in											4	
+Trace		TopCopper	15533		15365	15654							0.02 in											4	
+Text		TopSilkscreen	15542				0.711493 in	1.0015735 in						90°					"Shield"	Teeny	0.051 in			4	
+Trace		BottomCopper	15545		5389	5388							0.05 in											4	
+Point		BottomCopper	15546				0.8043858 in	0.71532 in																4	
+Trace		BottomCopper	15547		15546	15196							0.02 in											4	
+Point		TopCopper	15552				-0.2481157 in	0.2880085 in																4	
+Trace		TopCopper	15553		15552	15499							0.01 in											4	
+Text		TopSilkscreen	15554				0.3902982 in	-0.0219363 in											"-"	Teeny	0.102 in			4	
+Text		TopSilkscreen	15555				0.5227589 in	-0.0134857 in						270°					"+"	Teeny	0.102 in			4	
+Pad	Via		15569				-0.0270435 in	0.5851971 in	0.031 in	0.031 in												0.014 in		4	
+Point		BottomCopper	15573				0.1169459 in	0.6700646 in																4	
+Trace		BottomCopper	15574		15569	15573							0.02 in											4	
+Trace		BottomCopper	15576		15573	15934							0.02 in											4	
+Point		TopCopper	15580				0.2548342 in	0.6151517 in																4	
+Trace		TopCopper	15581		15580	584							0.02 in											4	
+Point		TopCopper	15582				0.1520489 in	0.5840251 in																4	
+Pad	Via		15585				0.2688871 in	0.9840582 in	0.031 in	0.031 in												0.014 in		4	
+Point		TopCopper	15604				0.252724 in	0.6935484 in																4	
+Trace		TopCopper	15605		15604	536							0.008 in											4	
+Text		TopSilkscreen	15606				-0.1772568 in	0.3925802 in						90°					"3V"	Teeny	0.0595 in			4	
+Pad	Via		15607				-0.0626759 in	0.2321105 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	4	
+Trace		TopCopper	15611		15370	14541							0.02 in											4	
+Point		TopCopper	15627				0.711292 in	0.5525238 in																4	
+Trace		TopCopper	15628		2003	15627							0.01 in											4	
+Trace		TopCopper	15630		15627	15469							0.01 in											4	
+Trace		TopCopper	15633		15188	16447							0.02 in											4	
+Trace		TopCopper	15634		14752	15173							0.02 in											4	
+Pad	Via		15642				0.6272514 in	0.9150096 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	4	
+Point		TopCopper	15643				0.6194965 in	0.9404939 in																4	
+Trace		TopCopper	15644		15643	15642							0.015 in											4	
+Pad	Via		15651				0.9376217 in	0.6961156 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	5	
+Trace		TopCopper	15653		396	14765							0.01 in											5	
+Pad	Via		15654				0.7559056 in	0.9622369 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	5	
+Point		TopCopper	15655				0.8127977 in	1.0307065 in																5	
+Trace		TopCopper	15656		15655	15377							0.02 in											5	
+Trace		TopCopper	15657		15654	15368							0.02 in											5	
+Pad	Rectangular	TopCopper	15658	15660			0.7907619 in	0.8725992 in	0.04 in	0.05 in							"1"							5	
+Pad	Rectangular	TopCopper	15659	15660			0.8667619 in	0.8725992 in	0.04 in	0.05 in							"2"							5	
+Group			15660											180°										5	
+Text		TopSilkscreen	15662				0.8193078 in	0.9033204 in						90°					"FER"	Tiny	0.051 in			5	
+Point		BottomCopper	15663				0.2694812 in	1.025 in																5	
+Trace		BottomCopper	15664		15585	15663							0.025 in											5	
+Point		BottomCopper	15667				0.7895926 in	1.025 in																5	
+Trace		BottomCopper	15668		15663	15667							0.025 in											5	
+Pad	Via		15669				0.8740101 in	0.8437309 in	0.031 in	0.031 in												0.014 in		5	
+Trace		BottomCopper	15675		15669	15667							0.025 in											5	
+Point		TopCopper	15685				0.091696 in	0.6528652 in																5	
+Trace		TopCopper	15690		567	15905							0.01 in											5	
+Point		TopCopper	15691				0.1095911 in	0.9142916 in																5	
+Trace		TopCopper	15692		15691	534							0.01 in											5	
+Trace		TopCopper	15694		564	15691							0.01 in											5	
+Point		TopCopper	15695				0.1057187 in	0.7222674 in																5	
+Trace		TopCopper	15696		15695	568							0.01 in											5	
+Pad	Rectangular	TopCopper	15700	15702			0.680687 in	0.701614 in	0.03 in	0.03 in				90°			"1"							5	
+Pad	Rectangular	TopCopper	15701	15702			0.735687 in	0.701614 in	0.03 in	0.03 in				90°			"2"							5	
+Group			15702											270°										5	
+Trace		TopCopper	15711		399	15700							0.02 in											5	
+Point		TopCopper	15716				0.8944515 in	0.7435271 in																5	
+Trace		TopCopper	15717		15716	15315							0.02 in											5	
+Text		TopSilkscreen	15718				0.7017587 in	0.6924594 in											"c"	Teeny	0.051 in			5	
+Text		TopSilkscreen	15721				0.4527957 in	0.9224839 in											"USB"	Tiny	0.068 in			5	
+Text		TopSilkscreen	15722				0.4371399 in	0.95643 in											"2or3"	Tiny	0.068 in			5	
+Text		BottomSilkscreen	15725				0.2458333 in	1.1275253 in											"H125269CT-ND"	Teeny	0.075 in			5	
+Text		BottomSilkscreen	15726				-0.1635317 in	0.2525877 in											"100MB/s"	Tiny	0.16 in			5	
+Text		BottomSilkscreen	15727				0.4422057 in	0.2303336 in											"USB3"	Tiny	0.16 in			5	
+Trace		BottomCopper	15729		400	701							0.02 in											5	
+Point		BottomCopper	15730				0.5759505 in	0.5511376 in																5	
+Trace		BottomCopper	15731		15730	400							0.02 in											5	
+Trace		BottomCopper	15733		14746	15730							0.02 in											5	
+Point		BottomCopper	15735				0.6047979 in	0.3525999 in																5	
+Trace		BottomCopper	15736		15735	341							0.01 in											5	
+Point		TopCopper	15816				0.7605952 in	0.3949661 in																6	
+Point		TopCopper	15849				0.5808925 in	0.3649881 in																6	
+Point		TopCopper	15859				0.4615979 in	0.7645763 in																6	
+Trace		TopCopper	15860		15859	1993							0.01 in											6	
+Point		TopCopper	15861				0.3507353 in	0.6697112 in																6	
+Trace		TopCopper	15862		15861	15863							0.01 in											6	
+Point		TopCopper	15863				0.3422787 in	0.6760517 in																6	
+Trace		TopCopper	15864		15863	15865							0.01 in											6	
+Point		TopCopper	15865				0.296789 in	0.6762805 in																6	
+Trace		TopCopper	15866		15865	584							0.01 in											6	
+Trace		BottomCopper	15868		614	14917							0.02 in											6	
+Point		BottomCopper	15869				0.5198711 in	0.768854 in																6	
+Trace		BottomCopper	15870		15869	614							0.02 in											6	
+Point		TopCopper	15871				0.2685095 in	0.7935814 in																6	
+Trace		TopCopper	15872		15871	15086							0.008 in											6	
+Point		TopCopper	15873				0.273244 in	0.7101934 in																6	
+Trace		TopCopper	15874		15873	15084							0.008 in											6	
+Point		BottomCopper	15875				0.2906317 in	0.6224965 in																6	
+Trace		BottomCopper	15876		15875	16278							0.02 in											6	
+Point		TopCopper	15877				0.6199992 in	0.613538 in																6	
+Trace		TopCopper	15878		2000	15877							0.01 in											6	
+Trace		TopCopper	15882		15877	14546							0.01 in											6	
+Trace		TopCopper	15884		15816	2013							0.008 in											6	
+Trace		TopCopper	15886		15849	2014							0.008 in											6	
+Point		TopCopper	15887				0.430117 in	0.3905202 in																6	
+Trace		TopCopper	15888		15887	2023							0.01 in											6	
+Trace		TopCopper	15891		2020	15892							0.01 in											6	
+Point		TopCopper	15892				0.461543 in	0.3882157 in																6	
+Trace		TopCopper	15893		15892	2048							0.01 in											6	
+Point		TopCopper	15894				0.5604235 in	0.552437 in																6	
+Trace		TopCopper	15895		2003	15894							0.01 in											6	
+Trace		TopCopper	15897		15894	2048							0.01 in											6	
+Pad	Via		15905				0.0818707 in	0.7980817 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	6	
+Trace		TopCopper	15906		15905	566							0.01 in											6	
+Pad	Via		15908				-0.2512951 in	0.2110074 in	0.037 in	0.037 in												0.02 in		6	
+Point		TopCopper	15909				-0.1687382 in	0.2144892 in																6	
+Trace		TopCopper	15910		15909	15492							0.01 in											6	
+Trace		BottomCopper	15912		14573	15908							0.025 in											6	
+Pad	Via		15913				0.6036849 in	0.1136245 in	0.037 in	0.037 in												0.02 in		6	
+Trace		BottomCopper	15915		15913	14658							0.025 in											6	
+Point		TopCopper	15916				0.6415981 in	0.5838656 in																6	
+Trace		TopCopper	15917		15916	413							0.01 in											6	
+Trace		TopCopper	15923		14752	15978							0.01 in											6	
+Point		BottomCopper	15934				0.2342359 in	0.6703294 in																6	
+Trace		BottomCopper	15935		15934	584							0.02 in											6	
+Trace		TopCopper	15938		14576	14862							0.008 in											6	
+Point		TopCopper	15939				0.049219 in	0.4559536 in																6	
+Trace		TopCopper	15940		15939	14839							0.008 in											6	
+Pad	Via		15941				-0.1003231 in	0.1003231 in	0.031 in	0.031 in												0.014 in		6	
+Point		TopCopper	15942				-0.1022775 in	0.1954346 in																6	
+Trace		TopCopper	15943		15492	15942							0.01 in											6	
+Trace		TopCopper	15945		15942	15941							0.01 in											6	
+Point		BottomCopper	15946				-0.018892 in	0.1004345 in																6	
+Trace		BottomCopper	15947		15941	15946							0.01 in											6	
+Point		BottomCopper	15948				-0.0013029 in	0.1179122 in																6	
+Trace		BottomCopper	15949		15946	15948							0.01 in											6	
+Point		BottomCopper	15950				-0.0006514 in	0.1863144 in																6	
+Trace		BottomCopper	15951		15948	15950							0.01 in											6	
+Point		BottomCopper	15952				0.0299666 in	0.2027253 in																6	
+Trace		BottomCopper	15953		15950	15952							0.01 in											6	
+Trace		BottomCopper	15955		15952	14839							0.01 in											6	
+Point		BottomCopper	15972				0.3134167 in	0.3647155 in																6	
+Trace		BottomCopper	15973		15972	428							0.02 in											6	
+Point		TopCopper	15978				0.4000614 in	0.2406222 in																6	
+Point		TopCopper	15985				0.0506928 in	0.6703437 in																6	
+Trace		TopCopper	15992		15985	15390							0.008 in											6	
+Trace		TopCopper	16000		15394	15391							0.01 in											6	
+Point		TopCopper	16001				0.1029592 in	0.6695088 in																6	
+Trace		TopCopper	16002		16001	15985							0.008 in											6	
+Trace		TopCopper	16004		15582	16001							0.008 in											6	
+Trace		TopCopper	16006		15685	15417							0.008 in											6	
+Point		TopCopper	16007				0.0939901 in	0.6092206 in																6	
+Trace		TopCopper	16008		16007	15387							0.008 in											6	
+Trace		TopCopper	16010		15385	15569							0.01 in											6	
+Point		TopCopper	16012				0.0367187 in	0.6535116 in																6	
+Trace		TopCopper	16013		16012	15685							0.008 in											6	
+Point		TopCopper	16014				0.0063808 in	0.7981326 in																6	
+Trace		TopCopper	16015		15391	16014							0.01 in											6	
+Trace		TopCopper	16017		16014	15905							0.01 in											6	
+Pad	Via		16021				-0.0602081 in	0.4487469 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	6	
+Pad	Via		16022				-0.0854603 in	0.3723171 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	6	
+Point		TopCopper	16052				0.3367915 in	0.3332511 in																6	
+Trace		TopCopper	16053		16376	16052							0.008 in											6	
+Trace		TopCopper	16055		16052	2028							0.008 in											6	
+Point		TopCopper	16056				0.3667501 in	0.3047042 in																6	
+Trace		TopCopper	16057		2027	16056							0.008 in											6	
+Point		TopCopper	16058				0.3595657 in	0.2957453 in																6	
+Trace		TopCopper	16059		16056	16058							0.008 in											6	
+Point		TopCopper	16064				0.3716311 in	0.2808367 in																6	
+Point		TopCopper	16066				0.3824909 in	0.2956744 in																6	
+Trace		TopCopper	16067		16064	16066							0.008 in											6	
+Trace		TopCopper	16069		16066	2026							0.008 in											6	
+Point		TopCopper	16070				0.3983158 in	0.2766341 in																6	
+Trace		TopCopper	16071		2025	16070							0.008 in											6	
+Point		TopCopper	16072				0.3795777 in	0.2541292 in																6	
+Trace		TopCopper	16073		16070	16072							0.008 in											6	
+Point		TopCopper	16084				0.7333486 in	0.5944657 in																6	
+Trace		TopCopper	16085		16084	16271							0.02 in											6	
+Trace		TopCopper	16089		15651	15146							0.02 in											6	
+Trace		TopCopper	16092		16084	15469							0.02 in											6	
+Point		TopCopper	16093				0.7147439 in	0.7770591 in																6	
+Trace		TopCopper	16094		16093	14543							0.01 in											6	
+Point		TopCopper	16095				0.7724151 in	0.6007484 in																6	
+Trace		TopCopper	16099		16095	16266							0.02 in											6	
+Pad	Via		16100				0.9557039 in	0.6012338 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	6	
+Pad	Via		16102				0.9481144 in	0.436899 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	6	
+Trace		TopCopper	16104		16102	14766							0.02 in											6	
+Point		BottomCopper	16110				0.8579027 in	0.4193959 in																6	
+Trace		BottomCopper	16111		16110	16134							0.01 in											6	
+Point		TopCopper	16114				0.6007567 in	0.1991435 in																6	
+Trace		TopCopper	16124		397	737							0.02 in											6	
+Trace		TopCopper	16125		397	15514							0.01 in											6	
+Trace		TopCopper	16127		678	14768							0.008 in											6	
+Point		TopCopper	16128				0.7954423 in	0.199212 in																6	
+Trace		TopCopper	16129		16128	16114							0.008 in											6	
+Point		BottomCopper	16132				0.8328693 in	0.4744498 in																6	
+Trace		BottomCopper	16133		16132	396							0.01 in											6	
+Point		BottomCopper	16134				0.8114522 in	0.4563633 in																6	
+Trace		BottomCopper	16135		16134	1844							0.01 in											6	
+Point		TopCopper	16145				0.567747 in	0.3148511 in																6	
+Trace		TopCopper	16146		16145	341							0.01 in											6	
+Point		TopCopper	16156				0.5249831 in	0.3062421 in																6	
+Trace		TopCopper	16157		2016	16156							0.008 in											6	
+Point		TopCopper	16158				0.5381107 in	0.2969683 in																6	
+Trace		TopCopper	16159		16156	16158							0.008 in											6	
+Point		TopCopper	16160				0.6093219 in	0.2969683 in																6	
+Trace		TopCopper	16161		16158	16160							0.008 in											6	
+Point		TopCopper	16166				0.5088129 in	0.2959941 in																6	
+Trace		TopCopper	16167		2017	16166							0.008 in											6	
+Point		TopCopper	16168				0.5302985 in	0.2813726 in																6	
+Trace		TopCopper	16169		16166	16168							0.008 in											6	
+Point		TopCopper	16170				0.7096472 in	0.2813726 in																6	
+Trace		TopCopper	16171		16168	16170							0.008 in											6	
+Point		TopCopper	16174				0.4926665 in	0.2880554 in																6	
+Trace		TopCopper	16175		2018	16174							0.008 in											6	
+Point		TopCopper	16176				0.5234989 in	0.2655749 in																6	
+Trace		TopCopper	16177		16174	16176							0.008 in											6	
+Trace		TopCopper	16181		16176	16243							0.008 in											6	
+Point		TopCopper	16191				0.4772943 in	0.279026 in																6	
+Trace		TopCopper	16192		2019	16191							0.008 in											6	
+Point		TopCopper	16193				0.5129725 in	0.2504126 in																6	
+Trace		TopCopper	16194		16191	16193							0.008 in											6	
+Trace		TopCopper	16196		16193	16239							0.008 in											6	
+Trace		TopCopper	16226		15171	16345							0.015 in											6	
+Pad	Rectangular	TopCopper	16227	16229			0.6585795 in	0.3649744 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16228	16229			0.7135795 in	0.3649744 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16229											180°										6	
+Point		TopCopper	16231				0.7697547 in	0.3650262 in																6	
+Trace		TopCopper	16232		16228	16231							0.008 in											6	
+Point		TopCopper	16233				0.8326618 in	0.3205213 in																6	
+Point		TopCopper	16235				0.8310666 in	0.2221553 in																6	
+Trace		TopCopper	16236		16233	16235							0.008 in											6	
+Point		TopCopper	16239				0.6023725 in	0.250407 in																6	
+Trace		TopCopper	16240		16239	16406							0.008 in											6	
+Point		TopCopper	16243				0.7087297 in	0.2655886 in																6	
+Trace		TopCopper	16244		16243	16400							0.008 in											6	
+Text		TopSilkscreen	16247				0.7419153 in	0.2326732 in											"10K"	Teeny	0.051 in			6	
+Text		TopSilkscreen	16248				0.7436158 in	0.29044 in											"10K"	Teeny	0.051 in			6	
+Text		TopSilkscreen	16249				0.6241843 in	0.2167873 in											"10K"	Teeny	0.051 in			6	
+Text		TopSilkscreen	16251				0.1663738 in	0.3027152 in											"10K"	Teeny	0.051 in			6	
+Text		TopSilkscreen	16252				0.1663726 in	0.2321788 in											"10K"	Teeny	0.051 in			6	
+Text		TopSilkscreen	16253				0.2775561 in	0.3127013 in											"10K"	Teeny	0.051 in			6	
+Text		TopSilkscreen	16254				0.2792465 in	0.2449358 in											"10K"	Teeny	0.051 in			6	
+Point		TopCopper	16255				0.5163933 in	0.1431151 in																6	
+Trace		TopCopper	16256		16255	16357							0.015 in											6	
+Trace		TopCopper	16258		15171	16255							0.015 in											6	
+Text		TopSilkscreen	16263				0.3618801 in	0.2810299 in											"FT600"	Tiny	0.102 in			6	
+Trace		TopCopper	16264		14543	15658							0.02 in											6	
+Trace		TopCopper	16265		14543	14540							0.02 in											6	
+Point		TopCopper	16266				0.772861 in	0.7439456 in																6	
+Trace		TopCopper	16267		16266	14543							0.02 in											6	
+Trace		TopCopper	16269		16271	15701							0.02 in											6	
+Pad	Rectangular	TopCopper	16270	16272			0.6809406 in	0.64196 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16271	16272			0.7359406 in	0.64196 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16272											270°										6	
+Text		TopSilkscreen	16273				0.7010908 in	0.633295 in											"c"	Teeny	0.051 in			6	
+Trace		TopCopper	16275		400	16276							0.02 in											6	
+Point		TopCopper	16276				0.6804575 in	0.612404 in																6	
+Trace		TopCopper	16277		16276	16270							0.02 in											6	
+Point		BottomCopper	16278				0.3772266 in	0.6229865 in																6	
+Trace		BottomCopper	16279		16278	22							0.02 in											6	
+Trace		BottomCopper	16280		16278	15362							0.02 in											6	
+Point		BottomCopper	16281				0.4798213 in	0.3279815 in																6	
+Trace		BottomCopper	16282		16281	341							0.02 in											6	
+Point		BottomCopper	16283				0.5759865 in	0.3723614 in																6	
+Trace		BottomCopper	16284		16283	14746							0.02 in											6	
+Text		BottomSilkscreen	16285				0.7890801 in	0.2326596 in											"FT600"	Tiny	0.16 in			6	
+Trace		TopCopper	16286		16102	16288							0.02 in											6	
+Point		TopCopper	16288				0.9600181 in	0.4211844 in																6	
+Trace		TopCopper	16289		16288	1514							0.02 in											6	
+Point		TopCopper	16304				0.2431716 in	0.2956902 in																6	
+Trace		TopCopper	16305		16058	16304							0.008 in											6	
+Trace		TopCopper	16307		16304	16379							0.008 in											6	
+Trace		TopCopper	16313		16381	16378							0.008 in											6	
+Trace		TopCopper	16315		16378	15292							0.008 in											6	
+Point		TopCopper	16318				0.2459254 in	0.3426129 in																6	
+Trace		TopCopper	16321		16318	16369							0.008 in											6	
+Pad	Via		16328				0.2957344 in	0.1019011 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	6	
+Trace		TopCopper	16329		16328	15187							0.02 in											6	
+Point		TopCopper	16330				0.3772001 in	0.0974668 in																6	
+Trace		TopCopper	16331		14584	16384							0.008 in											6	
+Point		TopCopper	16332				0.4689155 in	0.0974668 in																6	
+Trace		TopCopper	16333		16330	16332							0.008 in											6	
+Point		TopCopper	16334				0.4902657 in	0.1077125 in																6	
+Trace		TopCopper	16335		16332	16334							0.008 in											6	
+Point		TopCopper	16336				0.4905711 in	0.1947879 in																6	
+Trace		TopCopper	16337		16334	16336							0.008 in											6	
+Point		TopCopper	16338				0.5130923 in	0.234942 in																6	
+Trace		TopCopper	16339		16336	16338							0.008 in											6	
+Point		TopCopper	16340				0.5830744 in	0.234942 in																6	
+Trace		TopCopper	16341		16338	16340							0.008 in											6	
+Trace		TopCopper	16343		16340	16114							0.008 in											6	
+Point		TopCopper	16345				0.5254861 in	0.087581 in																6	
+Trace		TopCopper	16346		16345	15244							0.015 in											6	
+Trace		TopCopper	16350		15292	16351							0.008 in											6	
+Point		TopCopper	16351				0.2090199 in	0.3428833 in																6	
+Trace		TopCopper	16352		16351	16318							0.008 in											6	
+Trace		TopCopper	16354		16366	16072							0.008 in											6	
+Point		TopCopper	16357				0.5165662 in	0.1999127 in																6	
+Trace		TopCopper	16358		16357	15172							0.015 in											6	
+Point		TopCopper	16359				0.2363197 in	0.2807784 in																6	
+Trace		TopCopper	16360		16382	16359							0.008 in											6	
+Trace		TopCopper	16364		16359	16064							0.008 in											6	
+Pad	Rectangular	TopCopper	16365	16367			0.2823617 in	0.2541033 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16366	16367			0.3373617 in	0.2541033 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16367											270°										6	
+Point		TopCopper	16369				0.2676302 in	0.3311654 in																6	
+Pad	Rectangular	TopCopper	16375	16377			0.280853 in	0.3221719 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16376	16377			0.335853 in	0.3221719 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16377											270°										6	
+Pad	Rectangular	TopCopper	16378	16380			0.1701089 in	0.3132004 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16379	16380			0.2251089 in	0.3132004 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16380											270°										6	
+Pad	Rectangular	TopCopper	16381	16383			0.1704667 in	0.2426976 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16382	16383			0.2254667 in	0.2426976 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16383											270°										6	
+Point		TopCopper	16384				0.327176 in	0.049908 in																6	
+Trace		TopCopper	16385		16384	16330							0.008 in											6	
+Point		BottomCopper	16386				0.4687787 in	0.2107488 in																6	
+Trace		BottomCopper	16387		16386	14755							0.02 in											6	
+Point		TopCopper	16388				0.1941659 in	0.2196469 in																6	
+Trace		TopCopper	16389		16381	16388							0.008 in											6	
+Point		TopCopper	16390				0.2256743 in	0.2122514 in																6	
+Trace		TopCopper	16391		16388	16390							0.008 in											6	
+Point		TopCopper	16392				0.2613151 in	0.2123662 in																6	
+Trace		TopCopper	16393		16390	16392							0.008 in											6	
+Trace		TopCopper	16395		16392	16365							0.008 in											6	
+Pad	Rectangular	TopCopper	16397	16399			0.6303324 in	0.3104126 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16398	16399			0.6853324 in	0.3104126 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16399											180°										6	
+Pad	Rectangular	TopCopper	16400	16402			0.7443843 in	0.242416 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16401	16402			0.7993843 in	0.242416 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16402											180°										6	
+Pad	Rectangular	TopCopper	16403	16405			0.7452731 in	0.3004136 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16404	16405			0.8002731 in	0.3004136 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16405											180°										6	
+Pad	Rectangular	TopCopper	16406	16408			0.6246903 in	0.2266694 in	0.03 in	0.03 in				90°			"1"							6	
+Pad	Rectangular	TopCopper	16407	16408			0.6796903 in	0.2266694 in	0.03 in	0.03 in				90°			"2"							6	
+Group			16408											180°										6	
+Trace		TopCopper	16410		16170	16403							0.008 in											6	
+Trace		TopCopper	16412		16160	16397							0.008 in											6	
+Point		TopCopper	16413				0.7127902 in	0.2151717 in																6	
+Trace		TopCopper	16414		16407	16413							0.008 in											6	
+Point		TopCopper	16415				0.7817469 in	0.2151717 in																6	
+Trace		TopCopper	16416		16413	16415							0.008 in											6	
+Trace		TopCopper	16418		16415	16401							0.008 in											6	
+Trace		TopCopper	16420		16401	16429							0.008 in											6	
+Point		TopCopper	16421				0.7860935 in	0.3272416 in																6	
+Trace		TopCopper	16422		16404	16421							0.008 in											6	
+Point		TopCopper	16423				0.74956 in	0.3272538 in																6	
+Trace		TopCopper	16424		16421	16423							0.008 in											6	
+Point		TopCopper	16425				0.7059629 in	0.3272538 in																6	
+Trace		TopCopper	16426		16423	16425							0.008 in											6	
+Trace		TopCopper	16428		16425	16398							0.008 in											6	
+Pad	Via		16429				0.799457 in	0.2716871 in	0.031 in	0.031 in												0.014 in	BottomCopper Solid	6	
+Trace		TopCopper	16431		16429	16404							0.008 in											6	
+Trace		TopCopper	16433		16231	16233							0.008 in											6	
+Text		TopSilkscreen	16434				0.6280918 in	0.299705 in											"10K"	Teeny	0.051 in			6	
+Text		TopSilkscreen	16435				0.7438456 in	0.3461596 in											"clk"	Teeny	0.051 in			6	
+Pad	Rectangular	TopCopper	16436	16438			0.4009285 in	0.190717 in	0.03 in	0.03 in				180°			"1"							6	
+Pad	Rectangular	TopCopper	16437	16438			0.4009285 in	0.135717 in	0.03 in	0.03 in				180°			"2"							6	
+Group			16438											270°										6	
+Trace		TopCopper	16442		15187	16445							0.02 in											6	
+Trace		TopCopper	16444		16436	14752							0.02 in											6	
+Point		TopCopper	16445				0.3688028 in	0.1248054 in																6	
+Trace		TopCopper	16446		16445	16437							0.02 in											6	
+Point		TopCopper	16447				0.3733827 in	0.200448 in																6	
+Trace		TopCopper	16448		16447	14752							0.02 in											6	
+Text		TopSilkscreen	16449				0.3905811 in	0.1705082 in						90°					"c"	Teeny	0.051 in			6	
+Trace		TopCopper	16451		16235	16128							0.008 in											6	
+Point		TopCopper	16452				0.5451165 in	0.8905386 in																6	
+Trace		TopCopper	16453		16452	1472							0.008 in											6	
+Point		TopCopper	16454				0.5648396 in	0.8895664 in																6	
+Trace		TopCopper	16455		16454	14568							0.008 in											6	

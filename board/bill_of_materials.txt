@@ -1,0 +1,20 @@
+
+Qty-1  : 768-1310-ND    : FT600Q-B-T IC USB3-16BIT SYNC FIFO 56QFN : $8.99
+Qty-3  : BU33TD3WGCT-ND : BU33 IC REG LINEAR 3.3V 200MA 5SSOP      : $0.44
+Qty-1  : 370-1178-1-ND  : 30 MHz Crystal 18pF                      : $1.20
+Qty-1  : H125269CT-ND   : CONN RCPT USB MICRO B 3.0 SMD            : $1.49
+Qty-1  : 240-2390-1-ND  : Ferrite Bead 
+Qty-13 :                : Resistor 10K 0603 5% 
+Qty-1  :                : Resistor 33ohm 0603 5% 
+Qty-1  :                : Resistor 1M 0603 5% 
+Qty-1  :                : Resistor 1.6K 0603 1% 
+Qty-5  :                : Capacitor 10uF 0805
+Qty-2  :                : Capacitor 18pF 0603
+Qty-13 :                : Capacitor 0.1uF 0603
+Qty-2  :                : Connector 2x6 0.100" Male Right Angle
+Qty-1  :                : Connector 1x2 0.100" Male Vertical
+
+Note: FT600 supports 1.8V, 2.5V and 3.3V IO Voltages to FPGA.
+      For IO voltages other than 3.3V, sub BU33 at "Vio" with BU25 or BU18.
+
+2017.12.18 Kevin M. Hubbard @ Black Mesa Labs
